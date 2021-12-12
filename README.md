@@ -1,0 +1,2 @@
+# docs
+Streamflow's documentation
