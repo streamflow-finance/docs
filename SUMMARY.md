@@ -5,8 +5,20 @@
 ## StreamFlow
 
 * [Timelock protocol](streamflow/timelock-protocol.md)
-* [SDK](streamflow/sdk.md)
 * [Community](streamflow/community.md)
+* [Roadmap](streamflow/roadmap.md)
+* [Team](streamflow/team.md)
+
+## 📦 Products
+
+* [Token Vesting](products/token-vesting.md)
+* [Stream payments](products/stream-payments.md)
+* [Multipay](products/multipay.md)
+* [Multisig](products/multisig.md)
+
+## 🤝 Integration
+
+* [SDK](integration/sdk.md)
 
 ## 🪙 STRM Token
 
@@ -15,9 +27,8 @@
 
 ## 🆘 Help
 
-* [Tutorials](help/tutorials.md)
+* [Tutorials](help/tutorials/README.md)
+  * [Token Vesting](help/tutorials/token-vesting.md)
+  * [Stream payments](help/tutorials/stream-payments.md)
+  * [Multipay](help/tutorials/multipay.md)
 * [FAQ](help/faq.md)
-
-## 🤝 Integration
-
-* [Page 1](integration/page-1.md)

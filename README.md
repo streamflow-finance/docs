@@ -6,8 +6,10 @@ coverY: 29.207833733013587
 
 # Introduction
 
-## Vision
-
-## Mission
-
 ## Overview
+
+[https://docsend.com/view/fcj9m8c4eaniai98](https://docsend.com/view/fcj9m8c4eaniai98)
+
+## Motivation
+
+##
