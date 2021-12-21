@@ -28,7 +28,7 @@
 ## 🆘 Help
 
 * [Tutorials](help/tutorials/README.md)
-  * [Token Vesting](help/tutorials/token-vesting.md)
-  * [Stream payments](help/tutorials/stream-payments.md)
+  * [💰 Token Vesting](help/tutorials/token-vesting.md)
+  * [💸 Stream payments](help/tutorials/stream-payments.md)
   * [Multipay](help/tutorials/multipay.md)
 * [FAQ](help/faq.md)
