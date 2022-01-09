@@ -1,6 +1,7 @@
 ---
-description: Bulk token distributor tool. Available at app.streamflow.finance/multipay
+description: Bulk token distributor tool.
 ---
 
 # Multipay
 
+Work in progress.

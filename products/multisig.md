@@ -1,6 +1,7 @@
 ---
-description: Multi-signature treasuries. Available at app.streamflow.finance/multisig
+description: Multi-signature treasuries.
 ---
 
 # Multisig
 
+Work in progress.
