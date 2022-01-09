@@ -5,7 +5,7 @@
 ## StreamFlow
 
 * [Timelock protocol](streamflow/timelock-protocol.md)
-* [Community](streamflow/community.md)
+* [Resources](streamflow/community.md)
 * [Roadmap](streamflow/roadmap.md)
 * [Team](streamflow/team.md)
 
