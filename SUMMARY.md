@@ -4,8 +4,8 @@
 
 ## StreamFlow
 
-* [Timelock protocol](streamflow/timelock-protocol.md)
 * [Resources](streamflow/community.md)
+* [Protocol](streamflow/timelock-protocol.md)
 * [Roadmap](streamflow/roadmap.md)
 * [Team](streamflow/team.md)
 

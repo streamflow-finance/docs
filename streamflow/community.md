@@ -1,24 +1,13 @@
----
-description: Official (and important) Streamflow links
----
+# Community
 
-# Resources
+Please join our community:
 
-* Website: https://streamflow.finance
-* App: https://app.streamflow.finance
-* GitHub: https://github.com/streamflow-finance
-* Docs: https://docs.streamflow.finance
-* Presentation: [https://docsend.com/view/fcj9m8c4eaniai98](https://docsend.com/view/fcj9m8c4eaniai98)
+  Blog: https://streamflow.medium.com/
 
-## Application:
+ Discord: https://discord.gg/9yyr8UBZjr 
 
-* Main app: : https://app.streamflow.finance
-* Token Vesting: https://app.streamflow.finance/vesting
-* Token Vesting (community edition): https://free.streamflow.finance
-* Streams: https://app.streamflow.finance/streams
+Twitter: https://twitter.com/streamflow\_fi 
 
-## Community:
+Telegram Channel: https://t.me/streamflow\_fi 
 
-* Discord: https://discord.gg/9yyr8UBZjr 
-* Blog: https://streamflow.medium.com/
-* Twitter: https://twitter.com/streamflow\_fi 
+Telegram Group: https://t.me/streamflow\_finance
