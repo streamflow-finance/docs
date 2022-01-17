@@ -18,6 +18,11 @@ An overview of fees is presented here:
 | Escrow token account creation     | Escrow\*\* token account is created upon stream creation and rent\* is paid.                                                                        | 0.00407856 SOL | Solana     |
 | Signature                         | Solana charges fees per transaction signature.                                                                                                      | 0.000005 SOL   | Solana     |
 
-(\*) In Solana ecosystem when account is created rent for that account's storage must be paid. \
-Rent is calculated per storage byte. \
-(\*\*) Escrow token account is created upon stream creation to hold tokens until recipient withdraw them. When recipient withdraw all tokens the escrow account will be closed and rent SOL will be returned to the sender.
+_(\*)  Solana network charges storage rent for the account creation._\
+_Rent is calculated per storage byte._&#x20;
+
+_(\*\*) An escrow token account is created upon stream creation. When the recipient withdraws all of the tokens, the escrow account will be closed and rent will be returned to the sender._
+
+__
+
+__
