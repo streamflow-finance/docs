@@ -1,12 +1,12 @@
 ---
-description: How to do token vesting on free version of StreamFlow Finance app.
+description: How to do token vesting on free version of Streamflow Finance app.
 ---
 
-# 💰 Token Vesting \[FREE Version]
+# 💰 Token Vesting \[Community Version]
 
-StreamFlow Finance have free & UI friendly token vesting application that you can use for your SPL tokens. Here is how to use it:
+Streamflow Finance have free & UI friendly token vesting application that you can use for your SPL tokens. Here is how to use it:
 
-* Connect your wallet with StreamFlow Finance application
+* Connect your wallet with Streamflow Finance application
 * Make sure that you have enough SOL in your wallet account for Solana fees
 * Enter SPL token amount that you wish to vest within the StreamFlow app
 * Enter recipient's (Solana) wallet address
@@ -18,7 +18,7 @@ StreamFlow Finance have free & UI friendly token vesting application that you ca
 * Click on Create button
 * On the right you should able to see a contract with all the information you specified
 
-Here is the short video showing how token vesting works on free version of StreamFlow Finance:
+Here is the short video showing how token vesting works on community version of Streamflow Finance:
 
 {% embed url="https://www.youtube.com/watch?v=xvSe_P1EuKw" %}
 Token Vesting \[FREE]

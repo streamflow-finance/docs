@@ -2,11 +2,11 @@
 description: How to use Token Vesting on StreamFlow Finance
 ---
 
-# Token Vesting \[PAID Version]
+# 💰 Token Vesting \[PRO Version]
 
 StreamFlow Finance have free & UI friendly token vesting application that you can use for your SPL tokens.&#x20;
 
-The paid version of the app has several advanced options such as specifying who can cancel or transfer contracts and giving the name to the contract. Let's dive in.
+The pro version of the app has several advanced options such as specifying who can cancel or transfer contracts and giving the name to the contract. Let's dive in.
 
 * Connect your wallet with StreamFlow Finance application
 * Make sure that you have enough SOL in your wallet account for Solana fees
