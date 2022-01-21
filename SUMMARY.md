@@ -27,6 +27,6 @@
 
 * [Tutorials](help/tutorials/README.md)
   * [💰 Token Vesting \[FREE Version\]](help/tutorials/token-vesting.md)
-  * [💸 Stream payments](help/tutorials/stream-payments.md)
+  * [💰 Token Vesting \[PAID version\]](help/tutorials/stream-payments.md)
 * [FAQ](help/faq.md)
 * [Fees](help/fees.md)
