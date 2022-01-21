@@ -26,8 +26,8 @@
 ## 🆘 Help
 
 * [Tutorials](help/tutorials/README.md)
-  * [💰 Token Vesting \[PRO Version\]](help/tutorials/token-vesting-pro-version.md)
-  * [💰 Token Vesting \[Community Version\]](help/tutorials/token-vesting.md)
-  * [Token Streaming \[PRO Version\]](help/tutorials/token-streaming-pro-version.md)
+  * [💰 Token Vesting](help/tutorials/token-vesting.md)
+  * [💰 Token Vesting \[Community Version\]](help/tutorials/token-vesting-1.md)
+  * [Token Streaming](help/tutorials/token-streaming.md)
 * [FAQ](help/faq.md)
 * [Fees](help/fees.md)
