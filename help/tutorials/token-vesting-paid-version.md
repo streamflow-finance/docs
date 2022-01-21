@@ -1,8 +1,8 @@
 ---
-description: How to use paid version of StreamFlow Finance token vesting
+description: How to use Token Vesting on StreamFlow Finance
 ---
 
-# 💰 Token Vesting \[PAID version]
+# Token Vesting \[PAID Version]
 
 StreamFlow Finance have free & UI friendly token vesting application that you can use for your SPL tokens.&#x20;
 
@@ -25,6 +25,5 @@ The paid version of the app has several advanced options such as specifying who 
 Here is the short video showing how token vesting works on paid version of StreamFlow Finance:
 
 {% embed url="https://youtu.be/QFjTMXL6uDc" %}
-StreamFlow Finance Vesting
+How to use Token Vesting on StreamFlow Finance
 {% endembed %}
-
