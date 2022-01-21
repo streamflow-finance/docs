@@ -13,8 +13,6 @@
 
 * [Token Vesting](products/token-vesting.md)
 * [Stream payments](products/stream-payments.md)
-* [Multipay](products/multipay.md)
-* [Multisig](products/multisig.md)
 
 ## 🤝 Integration
 

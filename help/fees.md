@@ -4,6 +4,8 @@ description: Streamflow fees explanation
 
 # Fees
 
+_**Disclaimer: Streamflow Community** is a free and open-source SPL Token Vesting program version with limited feature set, available at_ [_free.streamflow.finance_](https://free.streamflow.finance)_. The following content refers to regular, commercial version of protocol._
+
 Streamflow charges service fees.&#x20;
 
 In addition to the Streamflow fees, Solana network charges certain fees as well.
