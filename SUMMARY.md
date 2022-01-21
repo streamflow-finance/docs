@@ -28,6 +28,6 @@
 * [Tutorials](help/tutorials/README.md)
   * [💰 Token Vesting](help/tutorials/token-vesting.md)
   * [💰 Token Vesting \[Community Version\]](help/tutorials/token-vesting-1.md)
-  * [Payment Streaming](help/tutorials/payment-streaming.md)
+  * [💰 Payment Streaming](help/tutorials/payment-streaming.md)
 * [FAQ](help/faq.md)
 * [Fees](help/fees.md)
