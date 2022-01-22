@@ -1,5 +1,5 @@
 ---
-description: How to use Token Vesting on Streamflow
+description: A short tutorial on how to do token vesting on Streamflow
 ---
 
 # 💰 Token Vesting

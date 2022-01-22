@@ -1,5 +1,5 @@
 ---
-description: How to do token vesting on community version of Streamflow Finance app.
+description: A short tutorial on how to do token vesting on Streamflow Community
 ---
 
 # 💰 Token Vesting \[Community Version]
