@@ -29,7 +29,7 @@
   * [💰 Token Vesting](help/tutorials/token-vesting.md)
   * [💰 Token Vesting \[Community Version\]](help/tutorials/token-vesting-1.md)
   * [💰 Streaming Payments](help/tutorials/streaming-payments.md)
-* [Withdrawing Payments](help/withdrawing-payments.md)
+  * [💰 Withdrawing Payments](help/tutorials/withdrawing-payments.md)
 * [Page 1](help/page-1.md)
 * [FAQ](help/faq.md)
 * [Fees](help/fees.md)
