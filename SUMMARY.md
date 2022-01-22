@@ -26,7 +26,7 @@
 ## 🆘 Help
 
 * [Tutorials](help/tutorials/README.md)
-  * [Top up contracts \[Stream Payment Functionality\]](help/tutorials/top-up-contracts-stream-payment-functionality.md)
+  * [💰 Top up contracts \[Stream Payment Functionality\]](help/tutorials/top-up-contracts-stream-payment-functionality.md)
   * [💰 Token Vesting](help/tutorials/token-vesting.md)
   * [💰 Token Vesting \[Community Version\]](help/tutorials/token-vesting-1.md)
   * [💰 Streaming Payments](help/tutorials/streaming-payments.md)
