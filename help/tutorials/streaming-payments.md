@@ -1,5 +1,5 @@
 ---
-description: How to stream tokens with Streamflow
+description: A short tutorial on how to stream payments on Streamflow
 ---
 
 # 💰 Streaming Payments
