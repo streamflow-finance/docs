@@ -1,10 +1,10 @@
 ---
-description: How to use Token Vesting on StreamFlow Finance
+description: How to use Token Vesting on Streamflow
 ---
 
 # 💰 Token Vesting
 
-StreamFlow Finance have free & UI friendly token vesting application that you can use for your SPL tokens.&#x20;
+Streamflow have free & UI friendly token vesting application that you can use for your SPL tokens.&#x20;
 
 The pro version of the app has several advanced options such as specifying who can cancel or transfer contracts and giving the name to the contract. Let's dive in.
 
@@ -22,7 +22,7 @@ The pro version of the app has several advanced options such as specifying who c
 * Click on Create button
 * On the right you should able to see a contract with all the information you specified
 
-Here is the short video showing how token vesting works on StreamFlow Finance:
+Here is the short video showing how token vesting works on Streamflow:
 
 {% embed url="https://youtu.be/QFjTMXL6uDc" %}
 How to use Token Vesting on StreamFlow Finance

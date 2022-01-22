@@ -1,10 +1,10 @@
 ---
-description: How to stream tokens with StreamFlow Finance
+description: How to stream tokens with Streamflow
 ---
 
-# Payment Streaming
+# 💰 Streaming Payments
 
-Streamflow Finance have free & UI friendly payment streaming application that you can use for your SPL tokens.&#x20;
+Streamflow have free & UI friendly payment streaming application that you can use for your SPL tokens.&#x20;
 
 The pro version of the app has several advanced options such as specifying who can cancel or transfer contracts and giving the name to the contract. Let's dive in.
 
@@ -20,7 +20,7 @@ The pro version of the app has several advanced options such as specifying who c
 * Click on Create button
 * On the right you should able to see the contract with all the information you specified
 
-Here is the short video showing how payment streaming works on pro version of Streamflow Finance:
+Here is the short video showing how payment streaming works on pro version of Streamflow:
 
 {% embed url="https://www.youtube.com/watch?v=Exhylv2WJmQ" %}
 Streaming payments
