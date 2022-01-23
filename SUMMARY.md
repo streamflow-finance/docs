@@ -18,11 +18,6 @@
 
 * [SDK](integration/sdk.md)
 
-## 🪙 STRM Token
-
-* [Utility](strm-token/utility.md)
-* [Tokenomics](strm-token/tokenomics.md)
-
 ## 🆘 Help
 
 * [Tutorials](help/tutorials/README.md)

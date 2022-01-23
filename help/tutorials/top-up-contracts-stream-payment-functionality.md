@@ -2,7 +2,7 @@
 description: A short tutorial on how to top up contracts on Streamflow
 ---
 
-# Top up contracts \[Stream Payment Functionality]
+# 💰 Top up contracts \[Stream Payment Functionality]
 
 You can easily top up contracts on Streamflow with these simple steps. Please note that this functionality is only available on Stream Payments.
 

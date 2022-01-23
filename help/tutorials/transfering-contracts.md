@@ -2,7 +2,7 @@
 description: A short tutorial on how to transfer contracts on Streamflow
 ---
 
-# Transfering Contracts
+# 💰 Transfering Contracts
 
 You can easily transfer contracts on Streamflow with these simple steps. Depending on what was selected on contract creation, sender, recipient or both can transfer contracts.&#x20;
 
