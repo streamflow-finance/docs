@@ -28,7 +28,7 @@ _Rent is calculated per storage byte._ \
 __\
 _(\*\*\*) An escrow token account is created upon stream creation. When the recipient withdraws all of the tokens, the escrow account will be closed and rent will be sent to streamflow treasury account._
 
-### StreamFlow transactions
+### Streamflow transactions
 
 * **Create stream**\
   ****There are few fees here:\

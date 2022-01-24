@@ -4,9 +4,9 @@ description: A short tutorial on how to do token vesting on Streamflow
 
 # 💰 Token Vesting
 
-Streamflow have free & UI friendly token vesting application that you can use for your SPL tokens.&#x20;
+Streamflow have a free & UI friendly token vesting application that you can use for your SPL tokens.&#x20;
 
-The pro version of the app has several advanced options such as specifying who can cancel or transfer contracts and giving the name to the contract. Let's dive in.
+This free version is our first version, built to meet demand that a lot of teams have on Solana and the app has several advanced options such as specifying who can cancel or transfer contracts and giving the name to the contract. Let's dive in.
 
 * Connect your wallet with StreamFlow Finance application
 * Make sure that you have enough SOL in your wallet account for Solana fees

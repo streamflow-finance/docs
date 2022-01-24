@@ -6,7 +6,7 @@ coverY: 29.207833733013587
 
 # Introduction
 
-Streamflow Finance a suite of products that enable organizations (and individuals) to distribute funds in a simple and straightforward manner.
+Streamflow is a suite of products that enables organizations (and individuals) to distribute funds in a simple and straightforward manner.
 
 ## Motivation
 
