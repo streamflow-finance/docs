@@ -1,5 +1,5 @@
 ---
-description: Streamflow Finance — a value distribution platform.
+description: Streamflow Finance — token distribution platform.
 cover: .gitbook/assets/sf.png
 coverY: 29.207833733013587
 ---
