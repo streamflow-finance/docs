@@ -1,7 +1,7 @@
 ---
 description: Streamflow Finance — token distribution platform.
-cover: .gitbook/assets/sf.png
-coverY: 29.207833733013587
+cover: .gitbook/assets/gitbook-2800x600@1x.jpg
+coverY: 0
 ---
 
 # Introduction
@@ -10,7 +10,7 @@ Streamflow is a suite of products that enables organizations (and individuals) t
 
 ## Motivation
 
-Crypto-native businesses lack easy-to-use tools to do token vesting, payroll for team members and contributors, to have multi-signature treasuries, etc.&#x20;
+Crypto-native businesses lack easy-to-use tools to do token vesting, payroll for team members and contributors, to have multi-signature treasuries, etc.
 
 Without these tools we cannot have efficient and highly functioning organizations. Streamflow solves this.
 
@@ -35,6 +35,3 @@ Last, but not least, we are dedicated to utilizing blockchain technology advance
 ## Overview
 
 Please take a look at our presentation: [https://docsend.com/view/fcj9m8c4eaniai98](https://docsend.com/view/fcj9m8c4eaniai98)
-
-
-
