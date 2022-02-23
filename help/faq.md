@@ -10,9 +10,9 @@ Community version of token vesting is free to use and has no service fees. It ha
 
 Streamflow V2 token vesting app also comes up with powerful additional features such as giving a Subject/Title to the contract, setting up a cliff time and release percentage, and auto-withdrawal feature. You can also choose who gets the authority to cancel or transfer the vesting contract stream from sender/recipient. A small service fee of 0.25% is charged on the commercial version.
 
-Community version: https://free.streamflow.finance/vesting
+Community version: [https://free.streamflow.finance/vesting](https://free.streamflow.finance/vesting)
 
-Streamflow V2 app: https://app.streamflow.finance/vesting
+Streamflow V2 app: [https://app.streamflow.finance/vesting](https://app.streamflow.finance/vesting)
 
 ### How is vesting different from streams?
 
