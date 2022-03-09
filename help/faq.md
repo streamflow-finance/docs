@@ -6,13 +6,13 @@ description: Frequently asked questions
 
 ### What’s the difference between community and commercial version of Streamflow token vesting?
 
-Community version of token vesting is free to use and has no service fees. It has a limited feature set compared to the commercial version (Streamflow V2) of token vesting. Contracts on the free version of token vesting are not transferable.
+**Community version** of token vesting is free to use and has no service fees. It has a limited feature set compared to the commercial version. Contracts are not transferable.
 
-Streamflow V2 token vesting app also comes up with powerful additional features such as giving a Subject/Title to the contract, setting up a cliff time and release percentage, and auto-withdrawal feature. You can also choose who gets the authority to cancel or transfer the vesting contract stream from sender/recipient. A small service fee of 0.25% is charged on the commercial version.
+Streamflow (**commercial**) token vesting app also comes up with powerful additional features such as giving a Subject/Title to the contract, auto-withdrawal feature, referral system. You can also choose who gets the authority to cancel or transfer the vesting contract stream from sender/recipient. This version has [fees.md](fees.md "mention").
 
-Community version: [https://free.streamflow.finance/vesting](https://free.streamflow.finance/vesting)
+**Streamflow app:** [**https://app.streamflow.finance**](https://app.streamflow.finance/vesting)****
 
-Streamflow V2 app: [https://app.streamflow.finance/vesting](https://app.streamflow.finance/vesting)
+Community version (SPL token vesting): [https://free.streamflow.finance/vesting](https://free.streamflow.finance/vesting)
 
 ### How is vesting different from streams?
 
@@ -34,9 +34,9 @@ Streamflow supports all SPL tokens for vesting and payroll streams. In other wor
 
 ### **Does Streamflow charge any fees for its products?**
 
-The Streamflow V2 has a small service fee of 0.25% on top of the amount being streamed. In addition to the Streamflow service fee, Solana network charges certain fees as well. You can look into detailed fee structure via following link: [https://docs.streamflow.finance/help/fees](https://docs.streamflow.finance/help/fees)
+The Streamflow V2 has a small service fee of 0.25% on top of the amount being streamed. In addition to the Streamflow service fee, Solana network charges certain fees as well. You can look into detailed fee structure here: [fees.md](fees.md "mention")
 
-Streamflow does not charge any service fee on the free community version of vesting.
+Streamflow does not charge any service fee on the free (community) version of vesting.
 
 ### Do you have plans to launch a token? What will be its utility?
 
