@@ -5,7 +5,7 @@ description: Meet the StreamTeam
 # Team
 
 * dule (QA, automation & support)
-* didi (software developer)
+* tokhtar.akhmetov (software developer)
 * watson (software developer)
 * ghf (BD, ops)
 * angelo (BD, analytics)
