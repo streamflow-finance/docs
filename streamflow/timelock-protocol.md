@@ -11,6 +11,9 @@ This basic financial primitive is a building block for many payment-related use 
 * Risk-minimized trial period
 * [Token vesting](../products/token-vesting.md)
 * [Progressive payroll](../products/stream-payments.md)
+* Batch payments&#x20;
+* Multi-signature wallet
 * Continuous fundraising & donations
 * Subscriptions
 * ... any pay-per-usage use case.
+
