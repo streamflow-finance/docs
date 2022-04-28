@@ -1,5 +1,5 @@
 ---
-description: Streamflow Finance — token distribution platform.
+description: Streamflow — token distribution platform
 cover: .gitbook/assets/gitbook-2800x600@1x.jpg
 coverY: 0
 ---

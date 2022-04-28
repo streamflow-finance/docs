@@ -16,8 +16,8 @@ description: Official (and important) Streamflow links
 
 * Main app: [https://app.streamflow.finance](https://app.streamflow.finance)
 * Token Vesting: [https://app.streamflow.finance/vesting](https://app.streamflow.finance/vesting)
-* Token Vesting (free): [https://free.streamflow.finance](https://free.streamflow.finance)
 * Streams: [https://app.streamflow.finance/streams](https://app.streamflow.finance/streams)
+* Token Vesting (free): [https://free.streamflow.finance](https://free.streamflow.finance)
 
 ## Community
 
