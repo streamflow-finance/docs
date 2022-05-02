@@ -4,12 +4,12 @@ description: SPL token vesting as a service.
 
 # Token Vesting
 
-Permissionless, decentralized, trustless SPL token vesting. Available at [ https://app.streamflow.finance/vesting](https://app.streamflow.finance/vesting)
-
-Code is open-source, audited, available at [https://github.com/streamflow-finance/timelock](https://github.com/streamflow-finance/timelock)
-
 Streamflow token vesting app is the most efficient way to vest SPL tokens to investors, teams, and communities.
 
 Token vesting can become a quite painful and cumbersome process that consumes the precious time of project developers and teams. Streamflow token vesting app handles the whole process in an easy, secure, and decentralized manner which saves a ton of your precious time with its unique and configurable features.
 
 For instructions on how to set up vesting contracts using Streamflow app, see [this guide](../help/tutorials/token-vesting-1.md).
+
+Permissionless, decentralized, trustless SPL token vesting. Available at [ https://app.streamflow.finance/vesting](https://app.streamflow.finance/vesting)
+
+Code is open-source, audited, available at [https://github.com/streamflow-finance/timelock](https://github.com/streamflow-finance/timelock)

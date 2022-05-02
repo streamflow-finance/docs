@@ -12,7 +12,7 @@ Streamflow is a suite of products that enables organizations (and individuals) t
 
 Crypto-native businesses lack easy-to-use tools to do token vesting, payroll for team members and contributors, to have multi-signature treasuries, etc.
 
-Without these tools we cannot have efficient and highly functioning organizations. Streamflow solves this.
+Without these tools, we cannot have efficient and highly functioning organizations. Streamflow solves this.
 
 We're building protocols, SDKs and applications to bridge those gaps and help organizations **stream**line aforementioned processes and save time and money.
 
