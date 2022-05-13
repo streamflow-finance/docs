@@ -11,5 +11,3 @@ Token vesting can become a quite painful and cumbersome process that consumes th
 For instructions on how to set up vesting contracts using Streamflow app, see [this guide](../help/tutorials/token-vesting-1.md).
 
 Permissionless, decentralized, trustless SPL token vesting. Available at [ https://app.streamflow.finance/vesting](https://app.streamflow.finance/vesting)
-
-Code is open-source, audited, available at [https://github.com/streamflow-finance/timelock](https://github.com/streamflow-finance/timelock)
