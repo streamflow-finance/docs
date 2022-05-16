@@ -16,11 +16,12 @@ description: Official (and important) Streamflow links
 
 * Main app: [https://app.streamflow.finance](https://app.streamflow.finance)
 * Token Vesting: [https://app.streamflow.finance/vesting](https://app.streamflow.finance/vesting)
-* Streams: [https://app.streamflow.finance/streams](https://app.streamflow.finance/streams)
-* Token Vesting (free): [https://free.streamflow.finance](https://free.streamflow.finance)
+* Payroll Streams: [https://app.streamflow.finance/streams](https://app.streamflow.finance/streams)
 
 ## Community
 
 * Discord: [https://discord.gg/9yyr8UBZjr ](https://discord.gg/9yyr8UBZjr)
-* Blog: [https://streamflow.medium.com/](https://streamflow.medium.com)
 * Twitter: [https://twitter.com/streamflow\_fi ](https://twitter.com/streamflow\_fi)
+* Blog: [https://streamflow.medium.com/](https://streamflow.medium.com/)
+* Telegram Channel: [https://t.me/streamflow\_finance](https://t.me/streamflow\_finance)&#x20;
+* Telegram Group: [https://t.me/streamflow\_fi](https://t.me/streamflow\_fi)

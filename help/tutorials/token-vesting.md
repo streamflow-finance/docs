@@ -70,7 +70,7 @@ Please note that if you have added the recipient's email address, you will get a
 
 If the recipient's email address has been added while creating the contract, an email will be sent to the given address with all the details about the vesting contract.
 
-![Recipient's email notification on the creation vesting contract](<../../.gitbook/assets/vesting email (2).png>)
+![Recipient's email notification on the creation of vesting contract](<../../.gitbook/assets/vesting email (2).png>)
 
 Additionally, the recipient will get notified when unlocked funds are transferred into his/her wallet. Please keep in mind that adding the recipient's email address is an optional feature and it can only be added while creating the contract.
 

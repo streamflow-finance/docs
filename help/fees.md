@@ -4,9 +4,7 @@ description: Streamflow fees explanation
 
 # Fees
 
-_**Disclaimer: Streamflow Community** is a free and open-source SPL Token Vesting program version with limited feature set, available at_ [_free.streamflow.finance_](https://free.streamflow.finance)_. The following content refers to regular, commercial version of protocol._
-
-Streamflow charges service fees.
+A small service fee is charged on the Streamflow app.
 
 In addition to the Streamflow fees, Solana network charges certain fees as well.
 
@@ -26,32 +24,30 @@ _It is important to mention that the fee is charged on top of the amount that is
 _(\*\*) Solana network charges storage rent for the account creation._\
 _Rent is calculated per storage byte._\
 \_\_\
-_(\*\*\*) An escrow token account is created upon stream creation. When the recipient withdraws all of the tokens, the escrow account will be closed and rent will be sent to streamflow treasury account._
+_(\*\*\*) An escrow token account is created upon stream creation. When the recipient withdraws all of the tokens, the escrow account will be closed and rent will be sent to the Streamflow treasury account._
 
 ### Streamflow transactions
 
 * **Create stream**\
   \*\*\*\*There are few fees here:\
-  \- service fee of 0.25% on top of the the amount you are streaming,\
-  \- metadata account creation fee,\
-  \- escrow token account creation fee,\
-  \- 2 \* tx signature fee.\
+  \- service fee of 0.25% on top of the amount you are streaming\
+  \- metadata account creation fee\
+  \- escrow token account creation fee\
+  \- 2 \* tx signature fee\
   \
-  \- If the recipient doesn't have token account for the token that is streamed the associated token account creation fee will be charged.\\
-*   **Top up stream**\
+  \- If the recipient doesn't have a token account for the token that is streamed, the associated token account creation fee will be charged.
+*   **Top up the stream**\
     \*\*\*\*The service fee is charged.\
-    The tx signature fee is charged.\\
+    The tx signature fee is charged.
 
     ***
 * **Withdraw**\
-  \*\*\*\*On withdraw only tx signature fee is charged.\\
+  \*\*\*\*On withdraw only tx signature fee is charged.
 *   **Transfer**\
     \*\*\*\*On transfer tx signature fee is charged.\
     \
-    If new recipient doesn't have token account for the token that is transferred the associated token account creation fee will be charged.\\
+    If the new recipient doesn't have a token account for the token that is transferred the associated token account creation fee will be charged.
 
     ***
 * **Cancel**\
   \*\*\*\*On cancel only tx signature fee is charged.
-
-\_\_

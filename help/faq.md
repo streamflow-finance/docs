@@ -4,21 +4,11 @@ description: Frequently asked questions
 
 # FAQ
 
-### What’s the difference between community and commercial versions of Streamflow token vesting?
+### What is the difference between vesting contracts and payroll streams?
 
-**The Community version** of token vesting is free to use and has no service fees. It has a limited feature set compared to the commercial version. Contracts are not transferable.
+The vesting contracts on Streamflow are used to vest SPL tokens to investors, teams, and communities. You can customize the vesting contracts as per your requirements using its unique features, such as cliff time release, release frequency, email notification, automatic withdrawal, contract duration, etc. A vesting contract is created for a fixed duration&#x20;
 
-Streamflow (**commercial**) token vesting app also comes up with powerful additional features such as giving a Subject/Title to the contract, auto-withdrawal feature, referral system. You can also choose who gets the authority to cancel or transfer the vesting contract stream from the sender/recipient. This version has [fees.md](fees.md "mention").
-
-**Streamflow app:** [**https://app.streamflow.finance**](https://app.streamflow.finance/vesting)****
-
-Community version (SPL token vesting): [https://free.streamflow.finance/vesting](https://free.streamflow.finance/vesting)
-
-### How is a token vesting stream different from a payroll stream?
-
-1\. You can set up a cliff time and release percentage (at specified cliff time) for a vesting contract stream while there is no such option in a payroll stream.
-
-2\. You can top-up a payroll stream while there is no such option in a vesting contract stream.
+On the other hand, payroll streams are used to stream payments to employees, freelancers, teams, contractors, and service providers. It is an efficient and secure way of making recurring payments. You can stream payments as per the required release rate, and the sender of the payment stream can also top up the ongoing payroll stream with more funds.&#x20;
 
 ### Are funds returned to the sender if a vesting contract or a payroll stream is canceled?
 
@@ -30,21 +20,23 @@ In case a live vesting contract stream or a payroll stream is transferred to a n
 
 ### **Which tokens are supported by Streamflow for vesting and payroll streams? How to stream SOL?**
 
-Streamflow supports all SPL tokens for vesting and payroll streams. In other words, all Solana network tokens are supported. In order to stream SOL, it should be converted into the wrapped SOL token. Network native SOL is a coin that can only be used for gas fees and can not be directly used in smart contracts such as vesting or payroll streams without wrapping it into a token. The Streamflow interface will only read wrapped SOL balance for streams.&#x20;
+Streamflow supports all SPL tokens for vesting contracts and payroll streams. In other words, all Solana network tokens are supported.\
+\
+In order to stream SOL, it should be converted into the wrapped SOL token. Network native SOL is a coin that can only be used for gas fees and can not be directly used in smart contracts such as vesting contracts or payroll streams without wrapping it into a token.&#x20;
 
 ### **Does Streamflow charge any fees for its products?**
 
-The Streamflow V2 has a small service fee of 0.25% on top of the amount being streamed. In addition to the Streamflow service fee, Solana network charges certain fees as well. It is recommended to have at least 0.02 SOL in the wallet to avoid failed transactions. You can look into the detailed fee structure here: [fees.md](fees.md "mention")
+The Streamflow app has a small service fee of 0.25% on top of the amount being streamed. In addition to the Streamflow service fee, Solana network charges certain fees as well.\
+\
+It is recommended to have at least 0.02 SOL in the wallet to avoid failed transactions. You can look into the detailed fee structure here: [fees.md](fees.md "mention")
 
-Streamflow does not charge any service fee on the free (community) version of vesting.
-
-### Do you have plans to launch a token? What will be its utility?
+### Do you have plans to launch a token?&#x20;
 
 Yes, Streamflow has plans of launching its native token ‘STRM’. Tokenomics and launch schedule are yet to be announced.&#x20;
 
 ### **What other products does Streamflow plan to launch in the future?**
 
-Currently, Streamflow has two products live on mainnet, token vesting and payroll streams. We have plans to launch more products such as multi-signature vaults and batch payments in near future. Streamflow will continuously innovate and expand its products and services over time.
+Streamflow token vesting and payroll streams are already live on the mainnet, we are also going to launch more products such as multi-signature vaults and batch payments in near future. Streamflow will continuously innovate and expand its product suite over time.
 
 ### **Who is the team behind this?**
 

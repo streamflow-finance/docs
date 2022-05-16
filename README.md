@@ -14,7 +14,7 @@ Crypto-native businesses lack easy-to-use tools to do token vesting, payroll for
 
 Without these tools, we cannot have efficient and highly functioning organizations. Streamflow solves this.
 
-We're building protocols, SDKs and applications to bridge those gaps and help organizations **stream**line aforementioned processes and save time and money.
+We're building protocols, SDKs and applications to bridge those gaps and help organizations **stream**line the aforementioned processes and save time and money.
 
 ## Vision
 
