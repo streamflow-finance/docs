@@ -16,9 +16,9 @@ description: Meet the StreamTeam
 
 
 
-**lui** (communications, content, community)                                  **ghf** (BD, ops)
+**lui** (communications, content, community)                                 &#x20;
 
-![](../.gitbook/assets/img-streamflow-avatar-lk-61x.jpg)               ![](../.gitbook/assets/img-streamflow-avatar-md-11x.jpg)
+![](../.gitbook/assets/img-streamflow-avatar-lk-61x.jpg)              &#x20;
 
 
 
