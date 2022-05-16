@@ -16,15 +16,9 @@ description: Meet the StreamTeam
 
 
 
-**lui** (communications, content, community)                                 &#x20;
+**lui** (communications, content, community)              **watson** (software developer)                                  &#x20;
 
-![](../.gitbook/assets/img-streamflow-avatar-lk-61x.jpg)              &#x20;
-
-
-
-&#x20;        **watson** (software developer)                         **okhtar.akhmetov** (software developer)
-
-![](../.gitbook/assets/img-streamflow-avatar-nb-31x.jpg)               ![](<../.gitbook/assets/Untitled design (80)1.png>)
+![](../.gitbook/assets/img-streamflow-avatar-lk-61x.jpg)               ![](../.gitbook/assets/img-streamflow-avatar-nb-31x.jpeg)
 
 
 
