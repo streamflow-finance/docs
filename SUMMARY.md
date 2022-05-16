@@ -7,7 +7,7 @@
 * [Resources](streamflow/community.md)
 * [Protocol](streamflow/timelock-protocol.md)
 * [Roadmap](streamflow/roadmap.md)
-* [Team](streamflow/team.md)
+* [🫂 Team](streamflow/team.md)
 
 ## 📦 Products
 
