@@ -116,6 +116,10 @@ You are now all set to create and manage vesting contracts on the powerful Strea
 
 ### Video tutorial on Token Vesting
 
+{% embed url="https://www.loom.com/share/1c8cbb687a2b48ed982df8a129cb636e" %}
+Creating vesting contracts in bulk + email notifications
+{% endembed %}
+
 {% embed url="https://youtu.be/QFjTMXL6uDc" %}
 How to use Token Vesting on StreamFlow Finance
 {% endembed %}
