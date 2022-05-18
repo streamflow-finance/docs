@@ -4,7 +4,7 @@ description: A step-by-step guide on how to set up vesting contracts using Strea
 
 # 💰 Token Vesting
 
-Streamflow token vesting app is the most efficient way to vest SPL tokens to investors, teams, and communities.
+Streamflow token vesting app is the most efficient way to vest SPL tokens to investors, venture capitalists, teams, and communities. The vesting contracts on Streamflow are configurable with unique features.
 
 Let’s go through a step-by-step process of creating a vesting contract using Streamflow.
 
@@ -24,7 +24,7 @@ Next, you can paste the recipient's wallet address into the given field. We reco
 \
 Optionally, you can also add the recipient's email address, an email is sent to the recipient regarding the creation of the vesting contract. Additionally, the recipient gets notified when unlocked tokens are transferred into the wallet.                  &#x20;
 
-![Vesting amount, recipient address and recipient email](<../../.gitbook/assets/Drop-down menue will shows the list of SPL tokens avaialble in your wallet (1).png>)
+![Vesting amount, recipient address and recipient email](<../../.gitbook/assets/Drop-down menue will shows the list of SPL tokens avaialble in your wallet (2).png>)
 
 #### Step 3: **Contract title, vesting duration, and release frequency**
 
@@ -118,8 +118,4 @@ You are now all set to create and manage vesting contracts on the powerful Strea
 
 {% embed url="https://www.loom.com/share/1c8cbb687a2b48ed982df8a129cb636e" %}
 Creating vesting contracts in bulk + email notifications
-{% endembed %}
-
-{% embed url="https://youtu.be/QFjTMXL6uDc" %}
-How to use Token Vesting on StreamFlow Finance
 {% endembed %}
