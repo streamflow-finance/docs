@@ -16,7 +16,7 @@ Firstly, you need to visit the Streamflow app via the following URL:
 
 Next, you will have to connect the wallet to start using the app. Streamflow supports multiple wallet providers, such as Phantom, Solfare, Slope, and Sollet.
 
-#### Step 2: **Vesting amount, recipient address, and (optional) email address**
+#### Step 2: **Vesting amount, recipient address, and email address (optional)**
 
 Select the token of your choice that you want to vest, and enter the total number of tokens to be vested into the amount tab. \
 \
