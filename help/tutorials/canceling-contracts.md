@@ -1,5 +1,5 @@
 ---
-description: A short tutorial on how to cancel vesting contrcats and payroll streams
+description: A short tutorial on how to cancel vesting contracts and payroll streams
 ---
 
 # 💰 Canceling Contracts

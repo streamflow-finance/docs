@@ -16,7 +16,7 @@ Firstly, you need to visit the Streamflow app via the following URL:
 
 👉 [app.streamflow.finance](https://bit.ly/3igHaDj)
 
-Next, you will have to connect the wallet to start using the app. Streamflow supports multiple wallet providers, such as Phantom, Solfare, Slope, and Sollet. After connecting the wallet, make sure to switch to the ‘ New Stream’ page for creating a payroll stream.
+Next, you will have to connect the wallet to start using the app. Streamflow supports multiple wallet providers, such as Phantom, Solflare, Slope, and Sollet. After connecting the wallet, make sure to switch to the ‘ New Stream’ page for creating a payroll stream.
 
 #### Step 2: **Stream amount and release rate**
 
@@ -32,7 +32,7 @@ To stream the 2000 STRM weekly salary in nearly real-time, you will have to set 
 
 #### Step 3: Contract title, recipient address, and (optional) email address
 
-The subject of the payroll stream needs to be entered in the 'contract title' tab, and the wallet address of the recipient can be pasted in the address field. We recommend using a non-custodial wallet address for the recipient, such as Phantom, Solfare, and Slope wallet. However, if you still want to use a centralized exchange's wallet address for the recipient, make sure to turn on the automatic withdrawal.\
+The subject of the payroll stream needs to be entered in the 'contract title' tab, and the wallet address of the recipient can be pasted in the address field. We recommend using a non-custodial wallet address for the recipient, such as Phantom, Solflare, and Slope wallet. However, if you still want to use a centralized exchange's wallet address for the recipient, make sure to turn on the automatic withdrawal.\
 \
 Optionally, you can also add the email address of the recipient, an email is sent to the recipient regarding the creation of the payroll stream. Additionally, the recipient gets notified when unlocked tokens are transferred into his/her wallet.      &#x20;
 

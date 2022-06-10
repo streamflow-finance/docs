@@ -20,7 +20,7 @@ Next, you will have to connect the wallet to start using the app. Streamflow sup
 
 Select the token of your choice that you want to vest, and enter the total number of tokens to be vested into the amount tab.\
 \
-Next, you can paste the recipient's wallet address into the given field. We recommend using a non-custodial wallet address for the recipient, such as Phantom, Solfare, and Slope wallet. However, if you still want to use a centralized exchange's wallet address for the recipient, make sure to turn on the automatic withdrawal.\
+Next, you can paste the recipient's wallet address into the given field. We recommend using a non-custodial wallet address for the recipient, such as Phantom, Solflare, and Slope wallet. However, if you still want to use a centralized exchange's wallet address for the recipient, make sure to turn on the automatic withdrawal.\
 \
 Optionally, you can also add the recipient's email address, an email is sent to the recipient regarding the creation of the vesting contract. Additionally, the recipient gets notified when unlocked tokens are transferred into the wallet.
 
