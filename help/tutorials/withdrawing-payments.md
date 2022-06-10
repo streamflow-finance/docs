@@ -18,13 +18,13 @@ You will also be able to see how many tokens have already been withdrawn from th
 
 Now, just click on the withdraw button, select the amount available for withdrawal, and approve the transaction in your wallet. The unlocked tokens will be transferred into your wallet as soon as the transaction is confirmed.
 
-![Amount available to withdraw](<../../.gitbook/assets/withdraw (2).png>)
+![Amount available to withdraw](<../../.gitbook/assets/withdraw (2) (1).png>)
 
 #### Automatic withdraw
 
 The sender of the vesting contract or payroll stream can enable the automatic withdrawal while creating the contract. It is a quite handy feature, it will automatically transfer the unlocked tokens into the recipient’s wallet at the set frequency.
 
-![How to enable automatic withraw and choose withdraw frequency ](<../../.gitbook/assets/streaming auto withdrawal shot (2).png>)
+![How to enable automatic withraw and choose withdraw frequency ](<../../.gitbook/assets/streaming auto withdrawal shot (2) (1).png>)
 
 If auto-withdrawal is enabled, the recipient will not need to connect the wallet to the Streamflow app to manually withdraw the funds.
 

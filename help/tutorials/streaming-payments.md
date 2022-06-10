@@ -114,7 +114,7 @@ Depending on the permissions granted while creating the stream, the sender/recip
 \
 When a stream is transferred, the payroll stream gets transferred to the new address with both the locked amount in the stream, as well as the unlocked amount of tokens that have not been withdrawn by the previous recipient.
 
-![New recipient address goes in the address field](<../../.gitbook/assets/transfer (3).png>)
+![New recipient address goes in the address field](<../../.gitbook/assets/transfer (2) (2).png>)
 
 #### How to cancel a payroll stream
 
