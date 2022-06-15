@@ -21,24 +21,13 @@ Next, you will have to connect the wallet to start using the app. Streamflow sup
 
 Select the token of your choice that you want to vest from the drop-down list of the SPL tokens available in your wallet. You will also be able to see the token balance.
 
-By using the cliff time release feature, a certain percentage of the total vested tokens can be released with the first flow/unlock of the vested funds.\
-\
-For example, if you set the cliff time release at 10%, ten percent of the total vested tokens will be released as soon as the vesting contract starts streaming tokens, and the recipient will immediately be able to withdraw those unlocked tokens. \*\*\*\* The remaining vested amount will be streamed at a constant rate for the rest of the vesting duration.\
-\*\*\*\*\
-\*\*\*\*Let’s say you create a vesting contract with a total amount of 200 STRM tokens using a cliff release of 10 percent.
-
 Next, you need to select the **release frequency** that can be chosen in the form of different time units, such as second, minute, hour, day, week, month, and year. A proportional amount of the vested tokens will be released in accordance with release frequency.
-
-Let’s say you create a vesting contract with a total amount of 200 STRM tokens using a cliff release of 10 percent.
 
 The duration of the vesting contract is an important parameter, you can choose the start date/time and end date/time of the vesting contract from the respective tabs.
 
-**Moving on to cancel/transfer permissions**, you can choose who gets the authority to cancel or \*\*\*\* transfer \*\*\*\* the vesting contract from the sender/recipient. Please grant these permissions carefully because you can not change cancel and transfer permissions once a contract has gone live.
-
 ![Token, release frequency, and duration of vesting contracts](<../../.gitbook/assets/Token, release freq, duration.png>)
 
-
-
+****\
 **Step 3:** **Cliff time release and cancel/transfer permission**
 
 By using the cliff time release feature, a certain percentage of the total vested tokens can be released with the first flow/unlock of the vested funds.\
@@ -53,8 +42,7 @@ This means that 5 USDC (10% OF 50 USDC) will get unlocked as soon as the vesting
 
 ![Cliff time release and cancel/transfer permissions](<../../.gitbook/assets/cliff, canceltransfer.png>)
 
-
-
+****\
 **Step 4: Adding recipient(s) with vesting amount, contract title, and email address**
 
 The Streamflow app supports the creation of vesting contracts in bulk, in other words, you can add as many recipients as you need with the vesting amounts of your choice for each recipient. You can also add subject/title of the contract for each recipient along with the (optional) email address.
@@ -113,8 +101,6 @@ The recipient will be able to see and interact with the vesting contract on the 
 
 ![Full view of an incoming vesting contract stream](<../../.gitbook/assets/incoming stream view batch.png>)
 
-
-
 #### How to manually withdraw the unlocked amount
 
 The recipient can manually withdraw the unlocked tokens into his/her wallet at any point in time, just click on the withdraw button, select the amount, and approve the transaction.
@@ -139,6 +125,8 @@ When a vesting contract is canceled, the amount that has not been unlocked yet i
 
 ![View of a canceled vesting contract](<../../.gitbook/assets/cancelted stream view batch.png>)
 
+**Conclusion**\
+\
 You are now all set to create and manage vesting contracts on the powerful Streamflow app. In case you get stuck at any point, feel free to reach out to us in Streamflow discord. The Streamflow product suite will expand over time and we will also keep on adding new features to our existing products.
 
 ### Video tutorial on Token Vesting
