@@ -38,13 +38,13 @@ Release frequency can be chosen in the form of different time units, such as sec
 
 By using the cliff time release feature, a certain percentage of the total vested tokens can be released with the first flow/unlock of the vested funds.\
 \
-For example, if you set the cliff time release at 10%, ten percent of the total vested tokens will be released as soon as the vesting contract starts streaming tokens, and the recipient will immediately be able to withdraw those unlocked tokens. \*\*\*\* The remaining vested amount will be streamed at a constant rate for the rest of the vesting duration.\
-\*\*\*\*\
-\*\*\*\*Let’s say you create a vesting contract with a total amount of 200 STRM tokens using a cliff release of 10 percent.
+For example, if you set the cliff time release at 10%, ten percent of the total vested tokens will be released as soon as the vesting contract starts streaming tokens, and the recipient will immediately be able to withdraw those unlocked tokens. The remaining vested amount will be streamed at a constant rate for the rest of the vesting duration.
+
+Let’s say you create a vesting contract with a total amount of 200 STRM tokens using a cliff release of 10 percent.
 
 This means that 20 STRM (10% OF 200 STRM) will get unlocked as soon as the vesting contract starts streaming, and the remaining vested amount (180 STRM) will be streamed at a constant rate (in accordance with the release frequency) for the rest of the vesting duration.
 
-**Moving on to cancel/transfer permissions**, you can choose who gets the authority to cancel or \*\*\*\* transfer \*\*\*\* the vesting contract from the sender/recipient. Please grant these permissions carefully because you can not change cancel and transfer permissions once a contract has gone live.
+**Moving on to cancel/transfer permissions**, you can choose who gets the authority to cancel or transfer the vesting contract from the sender/recipient. Please grant these permissions carefully because you can not change cancel and transfer permissions once a contract has gone live.
 
 ![Cliff time release & cancel/transfer permissions](../../.gitbook/assets/permisions.png)
 
