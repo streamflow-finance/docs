@@ -13,7 +13,7 @@
 
 * [Token Vesting](products/token-vesting.md)
 * [Stream payments](products/stream-payments.md)
-* [Batch payments](products/batch-payments-soon-tm.md)
+* [Batch payments (CSV Upload)](products/batch-payments-soon-tm.md)
 * [Multisig vaults — SOON™️](products/multisig-vaults-soon-tm.md)
 
 ## 🤝 Integration

@@ -1,4 +1,8 @@
-# Batch payments
+---
+description: Add multiple recipients, either manually or via CSV upload
+---
+
+# Batch payments (CSV Upload)
 
 You can create streams in bulk using Streamflow, it's incorporated into the main flow for token vesting and streaming payments either by manually adding additional recipients or by CSV upload.&#x20;
 
