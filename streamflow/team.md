@@ -48,7 +48,4 @@ description: Meet the StreamTeam
 
 
 
-&#x20;                                                                                                **Tokha**\
-&#x20;                                                                               **** (software developer)
-
-&#x20;                                                   ![](../.gitbook/assets/img-streamflow-avatar-tk-12401x.jpg)
+&#x20;                                                                                         ****                                                                                         &#x20;
