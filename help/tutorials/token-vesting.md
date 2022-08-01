@@ -1,12 +1,16 @@
 ---
-description: A step-by-step guide on how to set up vesting contracts using Streamflow app
+description: >-
+  A step-by-step guide on how to set up token vesting contracts on Solana using
+  Streamflow app
 ---
 
 # 💰 Token Vesting
 
-Streamflow token vesting app is the most efficient way to vest SPL tokens to investors, venture capitalists, teams, and communities. The vesting contracts on Streamflow are configurable with unique features.
+Streamflow is the leading platform for token vesting on the Solana network.\
+\
+The Streamflow token vesting app is the most efficient way to vest SPL tokens to investors, venture capitalists, investors, teams, and communities on the Solana network. The SPL token vesting contracts on Streamflow are configurable with many unique features, such as automatic withdrawal, CSV upload to create vesting contracts in bulk, cliff time release, email notifications, and many more.
 
-Let’s go through a step-by-step process of creating a vesting contract using Streamflow.
+Let’s go through a step-by-step process of creating token vesting contracts on Solana using Streamflow.
 
 #### Step 1: Connect the wallet
 
@@ -14,7 +18,7 @@ Firstly, you need to visit the Streamflow app via the following URL:
 
 👉 [app.streamflow.finance](https://bit.ly/3igHaDj)
 
-Next, you will have to connect the wallet to start using the app. Streamflow supports many wallet providers, such as Phantom, Solflare, Slope, and Sollet.
+Next, you will have to connect the wallet to start using the app. Streamflow supports many Solana network wallet providers, such as Phantom, Solflare, Slope, and Sollet.
 
 ****\
 **Step 2:** **Select token, release frequency, and vesting duration**
@@ -43,22 +47,36 @@ This means that 5 USDC (10% OF 50 USDC) will get unlocked as soon as the vesting
 ![Cliff time release and cancel/transfer permissions](<../../.gitbook/assets/cliff, canceltransfer.png>)
 
 ****\
-**Step 4: Adding recipient(s) with vesting amount, contract title, and email address**
+**Step 4: Adding recipient(s) with vesting amount, contract title, and email address (Manually)**
 
-The Streamflow app supports the creation of vesting contracts in bulk, in other words, you can add as many recipients as you need with the vesting amounts of your choice for each recipient. You can also add subject/title of the contract for each recipient along with the (optional) email address.
+The Streamflow app supports the creation of vesting contracts in bulk, in other words, you can add as many recipients as you need with the vesting amounts of your choice for each recipient. You can also add the title of the contract for each recipient along with the (optional) email address.
 
 Enter the total number of tokens to be vested into the amount tab, and the subject of the vesting contract can be typed in the contract title tab. The wallet address of the recipient can be pasted in the given field.
 
 Optionally, you can also add the recipient's email address, an email is sent to the recipient regarding the creation of the vesting contract. The recipient also gets notified when unlocked tokens are transferred into the wallet.
 
-You will get an option on the bottom left to add more recipients in order to create vesting contracts in bulk. Please remember that the cliff release percentage and contract duration will be same for all the recipients.
+You will get an option on the bottom left to add more recipients in order to create vesting contracts in bulk. Please remember that the cliff release percentage and the contract duration will be same for all the recipients.
 
-![Recipient 1](<../../.gitbook/assets/Recipient 11.png>)
+![Adding recipients manually](<../../.gitbook/assets/Mr Alex vesting contrcat (1).png>)
 
-![Adding second recipient](<../../.gitbook/assets/Recipient 22.png>)
+![Adding more recipients](<../../.gitbook/assets/Mr Bob.png>)
 
-****
+****\
+**CSV Upload: Import recipient addresses, token amounts, contract titles, and optional email addresses directly from a CSV file**\
+****\
+****Alternatively, if you are looking to set up vesting contracts for many recipients, you can alternatively make use of our CSV upload feature.
 
+![Click on CSV UPLOAD](<../../.gitbook/assets/Click here to import spreasheet (1).png>)
+
+Next, just select the CSV file and click on the upload button. The wallet addresses of all the recipients will be imported automatically from the CSV file along with token amounts, contract titles, and optional email addresses.
+
+![Select the CSV file and click on ''Upload'' button](<../../.gitbook/assets/Untitled design (89).png>)
+
+Just make sure that each row matches the following format:
+
+![Format of CSV spreadsheet](<../../.gitbook/assets/Untitled design (88).png>)
+
+****\
 **Step 5: Automatic withdrawal, referral address, and overview**
 
 Automatic withdrawal is a quite useful feature, it automatically transfers the unlocked tokens into the recipient’s wallet at the set frequency. It is not compulsory to enable auto-withdrawal, the recipient can also connect the wallet to the Streamflow app and manually withdraw the unlocked funds by interacting with the incoming vesting contract stream.
@@ -77,7 +95,7 @@ Please note that if you have added the recipient's email address, you will get a
 
 ![Click this and approve the transaction](../../.gitbook/assets/image\_2022-04-27\_135420070.png)
 
-Once the transaction in confirmed on the Solana network, you will be able to see the vesting contracts on the 'outgoing streams' page. You can expand the view of each vesting contract to see all the details and to interact with the vesting contract.
+Once the transaction is confirmed on the Solana network, you will be able to see the vesting contracts on the 'outgoing streams' page. You can expand the view of each vesting contract to see all the details and to interact with the vesting contract.
 
 ![Outgoing vesting contract streams](<../../.gitbook/assets/Untitled design (83) (1).png>)
 
@@ -127,7 +145,7 @@ When a vesting contract is canceled, the amount that has not been unlocked yet i
 
 **Conclusion**\
 \
-You are now all set to create and manage vesting contracts on the powerful Streamflow app. In case you get stuck at any point, feel free to reach out to us in Streamflow discord. The Streamflow product suite will expand over time and we will also keep on adding new features to our existing products.
+You are now all set to set up SPL token vesting contracts on Solana using Streamflow dApp. In case you get stuck at any point, feel free to reach out to us in Streamflow discord.
 
 ### Video tutorial on Token Vesting
 

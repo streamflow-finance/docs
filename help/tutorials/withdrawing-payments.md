@@ -31,11 +31,3 @@ If auto-withdrawal is enabled, the recipient will not need to connect the wallet
 It is not compulsory to enable auto-withdrawal, the recipient can also connect the wallet to the Streamflow app and manually withdraw the unlocked funds by interacting with the payroll stream or vesting contract.\
 \
 However, if the recipient's wallet address belongs to a centralized exchange, it is compulsory to turn on the automatic withdrawal.&#x20;
-
-
-
-**Here is the short video explaining how to withdraw funds.**
-
-{% embed url="https://www.youtube.com/watch?v=M7dP6FeI94M" %}
-Streamflow - Withdraw Payments
-{% endembed %}
