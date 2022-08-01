@@ -8,14 +8,20 @@ You can create streams in bulk using Streamflow, it's incorporated into the main
 
 **Manual recipients**
 
-In order to send to multiple recipients you can either click "Add recipient" until you have the number of recipients you require.&#x20;
+In order to send to multiple recipients, you can either click "Add recipient" until you have the number of recipients you require.&#x20;
 
-![](../.gitbook/assets/image.png)
-
-
+![Adding multiple recipients manually](<../.gitbook/assets/Mr Alex vesting contrcat.png>)
 
 **CSV Upload**
 
-Alternatively, if you are looking to setup streams or vesting contracts for many recipients, you can alternatively make use of our CSV upload feature.&#x20;
+Alternatively, if you are looking to set up streams or vesting contracts for many recipients, you can alternatively make use of our CSV upload feature.&#x20;
 
-![](<../.gitbook/assets/image (1).png>)
+![Import recipients' addresses with amount of tokens and email addresses using CSV upload](<../.gitbook/assets/Click here to import spreasheet (1).png>)
+
+Just select the CSV file and click on the ''Upload'' button to import all the recipient addresses with token amounts, contract titles, and optional email addresses.
+
+![Select the CSV file and click on ''Upload''](<../.gitbook/assets/Untitled design (89).png>)
+
+Just make sure that each row matches the following format:
+
+![Format of CSV spreadsheet](<../.gitbook/assets/Untitled design (88).png>)
