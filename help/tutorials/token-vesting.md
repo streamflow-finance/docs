@@ -57,7 +57,7 @@ Optionally, you can also add the recipient's email address, an email is sent to 
 
 You will get an option on the bottom left to add more recipients in order to create vesting contracts in bulk. Please remember that the cliff release percentage and the contract duration will be same for all the recipients.
 
-![Adding recipients manually](<../../.gitbook/assets/Mr Alex vesting contrcat (1).png>)
+![Adding recipients manually](<../../.gitbook/assets/Mr Alex vesting contrcat.png>)
 
 ![Adding more recipients](<../../.gitbook/assets/Mr Bob.png>)
 

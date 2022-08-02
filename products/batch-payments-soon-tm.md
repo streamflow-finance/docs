@@ -10,7 +10,7 @@ You can create streams in bulk using Streamflow, it's incorporated into the main
 
 In order to send to multiple recipients, you can either click "Add recipient" until you have the number of recipients you require.&#x20;
 
-![Adding multiple recipients manually](<../.gitbook/assets/Mr Alex vesting contrcat.png>)
+![Adding multiple recipients manually](<../.gitbook/assets/Mr Alex vesting contrcat (1).png>)
 
 **CSV Upload**
 
