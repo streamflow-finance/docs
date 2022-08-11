@@ -4,13 +4,15 @@ Streamflow is the leading platform for token vesting on the Solana network and i
 
 This is a step-by-step walkthrough for creating a token vesting proposal on Realms using Streamflow’s integration.
 
-Let’s start off by creating a “New Proposal”.
+
 
 **Step 1: Create a “New Proposal”**
 
 ![](../../.gitbook/assets/Xnip2022-08-11\_10-29-54.jpg)
 
 Let’s start off by creating a “New Proposal”.
+
+
 
 **Step 2: Select “Streamflow: Create Vesting Contract”**
 
@@ -42,11 +44,13 @@ From the dropdown menu select “Streamflow: Create Vesting Contract”
 
 Additionally, please ensure that you have sufficient $SOL to pay for the transactions on the Multisig SOL account **as well as** the wallet address that is creating the proposal
 
+****
+
 **Step 4: Submit proposal**
 
 We can see below the simulation is successful
 
-![](../../.gitbook/assets/Xnip2022-08-11\_11-32-46.jpg)
+![](<../../.gitbook/assets/Xnip2022-08-11\_11-32-46 (1).jpg>)
 
 ![](../../.gitbook/assets/Xnip2022-08-11\_11-33-27.jpg)
 
