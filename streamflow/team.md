@@ -46,6 +46,8 @@ description: Meet the StreamTeam
 
 &#x20;                                                   ![](<../.gitbook/assets/img-streamflow-avatar-ms-81x (1).jpg>)
 
+...and several other people that are waiting for their super cool avatars to be featured.
+
 
 
 &#x20;                                                                                         ****                                                                                         &#x20;

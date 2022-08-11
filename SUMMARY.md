@@ -19,6 +19,7 @@
 ## 🤝 Integration
 
 * [SDK](integration/sdk.md)
+* [Grant program](integration/grant-program.md)
 
 ## 🆘 Help
 
@@ -29,6 +30,7 @@
   * [💰 Transfering Contracts](help/tutorials/transfering-contracts.md)
   * [💰 Canceling Contracts](help/tutorials/canceling-contracts.md)
   * [💰 Top up contracts \[Stream Payment Functionality\]](help/tutorials/top-up-contracts-stream-payment-functionality.md)
+  * [Using Realms (SPL Governance)](help/tutorials/using-realms-spl-governance.md)
   * [💰 Referral Program](help/tutorials/referral-program.md)
 * [FAQ](help/faq.md)
 * [Fees](help/fees.md)
