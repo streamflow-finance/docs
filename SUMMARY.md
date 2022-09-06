@@ -12,18 +12,19 @@
 ## 📦 Products
 
 * [Token Vesting](products/token-vesting.md)
-* [Stream payments](products/stream-payments.md)
-* [Batch payments (CSV Upload)](products/batch-payments-soon-tm.md)
-* [Multisig vaults — SOON™️](products/multisig-vaults-soon-tm.md)
+* [Stream Payments](products/stream-payments.md)
+* [Batch Payments (CSV Upload)](products/batch-payments-soon-tm.md)
+* [Multisig Beta](products/multisig-vaults-soon-tm.md)
 
 ## 🤝 Integration
 
 * [SDK](integration/sdk.md)
-* [Grant program](integration/grant-program.md)
+* [Grant Program](integration/grant-program.md)
 
 ## 🆘 Help
 
 * [Tutorials](help/tutorials/README.md)
+  * [💰 How to set up a multisig beta wallet](help/tutorials/how-to-set-up-a-multisig-beta-wallet.md)
   * [💰 Token Vesting](help/tutorials/token-vesting.md)
   * [💰 Streaming Payments](help/tutorials/streaming-payments.md)
   * [💰 Withdrawing Payments](help/tutorials/withdrawing-payments.md)
