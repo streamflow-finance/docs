@@ -6,8 +6,11 @@ description: Where do we go from here?
 
 What's coming down the pipeline?
 
-* CSV upload :white\_check\_mark:
-* Multisig wallet support&#x20;
+* Batch CSV upload :white\_check\_mark:
+* Multisig wallet support :white\_check\_mark:
 * Integrations with DAO and Multisigs :white\_check\_mark:
-* Crypto-native payroll
 * Investor's dashboard :white\_check\_mark:
+* Realms integration :white\_check\_mark:
+* Grape integration :white\_check\_mark:
+* Crypto-native payroll
+* Powerful address book

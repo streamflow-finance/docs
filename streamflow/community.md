@@ -17,6 +17,7 @@ description: Official (and important) Streamflow links
 * Main app: [https://app.streamflow.finance](https://app.streamflow.finance)
 * Token Vesting: [https://app.streamflow.finance/vesting](https://app.streamflow.finance/vesting)
 * Payroll Streams: [https://app.streamflow.finance/streams](https://app.streamflow.finance/streams)
+* Multisig: [https://app.streamflow.finance/multisig-wallet](https://app.streamflow.finance/multisig-wallet)
 
 ## Community
 
