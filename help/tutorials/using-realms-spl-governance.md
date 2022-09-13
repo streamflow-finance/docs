@@ -64,7 +64,9 @@ Once the stream has been approved, view the details of the stream by expanding t
 
 **Cancel:** To cancel the stream just click cancel and submit the tx. On success, a proposal to cancel the stream is created. On approval of the proposal the stream is cancelled from the moment the proposal passes (this can be mid stream).
 
-
+{% embed url="https://www.youtube.com/watch?v=KycsFEpLrDE" %}
+Streamflow in Realms
+{% endembed %}
 
 
 
