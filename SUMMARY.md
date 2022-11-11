@@ -14,7 +14,7 @@
 * [Token Vesting](products/token-vesting.md)
 * [Stream Payments](products/stream-payments.md)
 * [Batch Payments (CSV Upload)](products/batch-payments-soon-tm.md)
-* [Multisig Beta](products/multisig-vaults-soon-tm.md)
+* [Multisig](products/multisig-vaults-soon-tm.md)
 
 ## 🤝 Integration
 
