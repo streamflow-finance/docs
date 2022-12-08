@@ -12,5 +12,5 @@ What's coming down the pipeline?
 * Investor's dashboard :white\_check\_mark:
 * Realms integration :white\_check\_mark:
 * Grape integration :white\_check\_mark:
-* Crypto-native payroll
-* Powerful address book
+* Crypto-native payroll :white\_check\_mark:
+* Powerful address book :white\_check\_mark:

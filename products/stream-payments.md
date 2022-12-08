@@ -2,7 +2,7 @@
 description: Ongoing, recurring payments.
 ---
 
-# Stream payments
+# Stream Payments
 
 Streaming payments on Streamflow are an efficient, easy to use, and secure way of payroll management.\
 \
@@ -14,6 +14,6 @@ Streamflow payroll streams come up with unique and configurable features that br
 
 It saves you time and money by making the whole payroll system bankless and paperless, you only need a decentralized wallet account, funds, and the wallet addresses of employees to set up payroll streams.
 
-Available at [app.streamflow.finance/streams](https://app.streamflow.finance/streams)
+Available at [app.streamflow.finance](https://app.streamflow.finance)
 
 For instructions on how to create payroll streams using Streamflow, see [this guide](https://docs.streamflow.finance/help/tutorials/streaming-payments).

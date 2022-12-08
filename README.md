@@ -30,8 +30,4 @@ Our aim is to make these services widely adopted by being the payment "rails" an
 
 Staring with Solana ecosystem, then expanding cross-chain and onboarding traditional (web2) projects.
 
-Last, but not least, we are dedicated to utilizing blockchain technology advancements to stay at the frontline of a financial shift taking place in the world.
-
-## Overview
-
-Please take a look at our presentation: [https://docsend.com/view/fcj9m8c4eaniai98](https://docsend.com/view/fcj9m8c4eaniai98)
+Last, but not least, we are dedicated to utilizing blockchain technology advancements to stay at the frontline of a financial shift taking place in the world.OverviewPlease take a look at our presentation: [https://docsend.com/view/fcj9m8c4eaniai98](https://docsend.com/view/fcj9m8c4eaniai98)
