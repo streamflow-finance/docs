@@ -22,12 +22,12 @@ To make crypto-native financial workflows **simple.**
 
 ## Our Mission
 
-Facilitate everyday financial workflows and payment-related tasks by creating decentralized, permissionless and trust-minimized protocols, SDKs and applications.
+Facilitate everyday financial workflows and payment-related tasks by creating decentralized, permissionless, and trust-minimized protocols, SDKs, and applications.
 
-Our initial suite of products includes a protocol for **streaming payments** and solutions for **token vesting** and **progressive payroll** built on top of it. In addition, we're bringing batch payments and multisignature vaults on Solana.
+Our initial suite of products includes a protocol for **streaming payments** and solutions for **token vesting,** **progressive payroll, and batch payments** built on top of it. These features are available on Solana and Aptos chains. In addition, we have multisignature vaults on Solana.
 
 Our aim is to make these services widely adopted by being the payment "rails" and enabling seamless integration of our services within other applications.
 
-Staring with Solana ecosystem, then expanding cross-chain and onboarding traditional (web2) projects.
+Staring with Solana ecosystem, we have expanded to Aptos and onboarding traditional (web2) projects.
 
 Last, but not least, we are dedicated to utilizing blockchain technology advancements to stay at the frontline of a financial shift taking place in the world.
