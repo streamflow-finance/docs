@@ -1,14 +1,14 @@
 ---
 description: >-
-  A step-by-step guide on how to set up token vesting contracts on Solana using
-  Streamflow app
+  A step-by-step guide on how to set up token vesting contracts on Solana and
+  Aptos using Streamflow app
 ---
 
 # 💰 Token Vesting
 
-Streamflow is the leading platform for token vesting on the Solana network.\
+Streamflow is the leading platform for token vesting on the Solana and Aptos networks.\
 \
-The Streamflow token vesting app is the most efficient way to vest SPL tokens to investors, venture capitalists, investors, teams, and communities on the Solana network. The SPL token vesting contracts on Streamflow are configurable with many unique features, such as automatic withdrawal, CSV upload to create vesting contracts in bulk, cliff time release, email notifications, and many more.
+The Streamflow token vesting app is the most efficient way to vest SPL tokens to investors, venture capitalists, investors, teams, and communities on the Solana and Aptos network. The SPL token vesting contracts on Streamflow are configurable with many unique features, such as automatic withdrawal, CSV upload to create vesting contracts in bulk, cliff time release, email notifications, and many more.
 
 Let’s go through a step-by-step process of creating token vesting contracts on Solana using Streamflow.
 
@@ -18,12 +18,36 @@ Firstly, you need to visit the Streamflow app via the following URL:
 
 👉 [app.streamflow.finance](https://bit.ly/3igHaDj)
 
-Next, you will have to connect the wallet to start using the app. Streamflow supports many Solana network wallet providers, such as Phantom, Solflare, Slope, and Sollet.
+Next, you will have to connect the wallet to start using the app.&#x20;
+
+For Solana, Streamflow supports the following wallets:
+
+* Phantom
+* Solflare
+* Ledger
+* Backpack
+* WalletConnect
+
+For Aptos, Streamflow supports the following wallets:
+
+* Rise Wallet
+* Hippo Web
+* Martian
+* Petra
+* Fewcha
+* Hippo
+* Pontem
+* Spika
+* TokenPocket
+* ONTO
+* FoxWallet
+* Clover
+* Spacecy
 
 ****\
-**Step 2:** **Select token, release frequency, and vesting duration**
+**Step 2:** **Select the token, release frequency, and vesting duration**
 
-Select the token of your choice that you want to vest from the drop-down list of the SPL tokens available in your wallet. You will also be able to see the token balance.
+Select the token of your choice that you want to vest from the drop-down list of the Solana/Aptos tokens available in your wallet. You will also be able to see the token balance.
 
 Next, you need to select the **release frequency** that can be chosen in the form of different time units, such as second, minute, hour, day, week, month, and year. A proportional amount of the vested tokens will be released in accordance with release frequency.
 
@@ -53,9 +77,9 @@ The Streamflow app supports the creation of vesting contracts in bulk, in other 
 
 Enter the total number of tokens to be vested into the amount tab, and the subject of the vesting contract can be typed in the contract title tab. The wallet address of the recipient can be pasted in the given field.
 
-Optionally, you can also add the recipient's email address, an email is sent to the recipient regarding the creation of the vesting contract. The recipient also gets notified when unlocked tokens are transferred into the wallet.
+Optionally, you can also add the recipient's email address, and an email is sent to the recipient regarding the creation of the vesting contract. The recipient also gets notified when unlocked tokens are transferred into the wallet.
 
-You will get an option on the bottom left to add more recipients in order to create vesting contracts in bulk. Please remember that the cliff release percentage and the contract duration will be same for all the recipients.
+You will get an option on the bottom left to add more recipients in order to create vesting contracts in bulk. Please remember that the cliff release percentage and the contract duration will be the same for all the recipients.
 
 ![Adding recipients manually](<../../.gitbook/assets/Mr Alex vesting contrcat.png>)
 
