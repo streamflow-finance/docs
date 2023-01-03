@@ -53,9 +53,7 @@ Next, you need to select the **release frequency** that can be chosen in the for
 
 The duration of the vesting contract is an important parameter, you can choose the start date/time and end date/time of the vesting contract from the respective tabs.
 
-![Token, release frequency, and duration of vesting contracts](<../../.gitbook/assets/Token, release freq, duration.png>)
-
-****\
+****![](<../../.gitbook/assets/Screenshot 2023-01-03 at 19.04.04.png>)****\
 **Step 3:** **Cliff time release and cancel/transfer permission**
 
 By using the cliff time release feature, a certain percentage of the total vested tokens can be released with the first flow/unlock of the vested funds.\
@@ -68,7 +66,7 @@ This means that 5 USDC (10% OF 50 USDC) will get unlocked as soon as the vesting
 
 **Moving on to cancel/transfer permissions**, you can choose who gets the authority to cancel or \*\*\*\* transfer \*\*\*\* the vesting contract from the sender/recipient. Please grant these permissions carefully because you can not change cancel and transfer permissions once a contract has gone live.
 
-![Cliff time release and cancel/transfer permissions](<../../.gitbook/assets/cliff, canceltransfer.png>)
+![](<../../.gitbook/assets/Screenshot 2023-01-03 at 18.58.48 (1).png>)
 
 ****\
 **Step 4: Adding recipient(s) with vesting amount, contract title, and email address (Manually)**
@@ -111,15 +109,15 @@ In case someone referred you to Streamflow token vesting, just paste the wallet 
 
 ![Referral address](<../../.gitbook/assets/ref address] (1).JPG>)
 
-Finally, take a look at the overview tab to see all the parameters of your vesting contracts, click on the 'create vesting contract' button, and approve the transaction in your wallet. Your vesting contracts will go live on the Solana network as soon as the transaction is confirmed.\
+Finally, take a look at the overview tab to see all the parameters of your vesting contracts, click on the 'create vesting contract' button, and approve the transaction in your wallet. Your vesting contracts will go live on the Solana network/Aptos network as soon as the transaction is confirmed.\
 \
 Please note that if you have added the recipient's email address, you will get an additional wallet pop-up to sign the message. In other words, it is simply an approval for sending email notifications.
 
 ![Overview of the parameters of the vesting contracts](<../../.gitbook/assets/Untitled design (82).png>)
 
-![Click this and approve the transaction](../../.gitbook/assets/image\_2022-04-27\_135420070.png)
+<figure><img src="../../.gitbook/assets/Screenshot 2023-01-03 at 19.08.09.png" alt=""><figcaption><p>Click on this button to create stream</p></figcaption></figure>
 
-Once the transaction is confirmed on the Solana network, you will be able to see the vesting contracts on the 'outgoing streams' page. You can expand the view of each vesting contract to see all the details and to interact with the vesting contract.
+Once the transaction is confirmed on the Solana network/Aptos network, you will be able to see the vesting contracts on the 'outgoing streams' page. You can expand the view of each vesting contract to see all the details and to interact with the vesting contract.
 
 ![Outgoing vesting contract streams](<../../.gitbook/assets/Untitled design (83) (1).png>)
 
@@ -169,7 +167,7 @@ When a vesting contract is canceled, the amount that has not been unlocked yet i
 
 **Conclusion**\
 \
-You are now all set to set up SPL token vesting contracts on Solana using Streamflow dApp. In case you get stuck at any point, feel free to reach out to us in Streamflow discord.
+You are now all set to set up token vesting contracts on Solana or Aptos using Streamflow dApp. In case you get stuck at any point, feel free to reach out to us in Streamflow discord.
 
 ### Video tutorial on Token Vesting
 
