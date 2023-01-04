@@ -15,11 +15,3 @@ The following screenshot shows the extension in expiration date/time after toppi
 ![Total amount locked in the payroll stream increased & extension in the expiration date of stream](<../../.gitbook/assets/after top up.png>)
 
 Please keep in mind that it is not possible to top up an expired payroll stream.
-
-### Video tutorial&#x20;
-
-Here is the short video explaining how to top up payroll streams
-
-{% embed url="https://www.youtube.com/watch?v=1hITkXCEYss" %}
-Streamflow - Top up contracts
-{% endembed %}

@@ -126,10 +126,3 @@ When a payroll stream is canceled, the amount that has not been unlocked yet is 
 ](<../../.gitbook/assets/canceled stream.png>)
 
 You are now all set to create and manage payroll streams on the powerful Streamflow app. In case you get stuck at any point, feel free to reach out to us in Streamflow discord. The Streamflow product suite will expand over time and we will also keep on adding new features to our existing products.
-
-### Video tutorial on Streaming payments
-
-{% embed url="https://www.youtube.com/watch?v=Exhylv2WJmQ" %}
-Streaming payments
-{% endembed %}
-

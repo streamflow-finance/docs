@@ -15,11 +15,3 @@ Please keep in mind that you will have to click on the three dots (...) right be
 ![How to find the transfer option](<../../.gitbook/assets/transfer pointer pinter.png>)
 
 ![Just paste the new recipient's address, click transfer, and approve the transaction](<../../.gitbook/assets/transfer (2).png>)
-
-****
-
-**Here is the short video explaining how to transfer contracts.**
-
-{% embed url="https://www.youtube.com/watch?v=iT7AlM_F2JI" %}
-Streamflow - Transferring contracts
-{% endembed %}

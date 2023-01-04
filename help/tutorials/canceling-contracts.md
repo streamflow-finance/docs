@@ -15,11 +15,3 @@ Please keep in mind that you will have to click on the three dots (...) right be
 You just have to click on the cancel button and approve the transaction in your wallet. Once a contract has been canceled, you will be able to see the amount that has been returned to the sender and the number of tokens that have been withdrawn into the recipient's wallet.
 
 ![View of a canceled contract](<../../.gitbook/assets/returned to sender arrow (1).png>)
-
-
-
-**Here is the short video explaining how to cancel contracts.**
-
-{% embed url="https://www.youtube.com/watch?v=J7Sc3plVRso" %}
-Streamflow - Canceling contracts
-{% endembed %}
