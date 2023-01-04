@@ -1,3 +1,7 @@
+---
+description: 'Note: Multisig is only available on the Solana network for now.'
+---
+
 # 💰 How to set up a multisig beta wallet
 
 Here’s a step-by-step walkthrough to creating a Streamflow multisig:
