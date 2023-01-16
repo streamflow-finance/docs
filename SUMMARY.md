@@ -32,5 +32,6 @@
   * [💰 Canceling Contracts](help/tutorials/canceling-contracts.md)
   * [💰 Top up contracts \[Stream Payment Functionality\]](help/tutorials/top-up-contracts-stream-payment-functionality.md)
   * [💰 Referral Program](help/tutorials/referral-program.md)
+  * [Address Book](help/tutorials/address-book.md)
 * [FAQ](help/faq.md)
 * [Fees](help/fees.md)
