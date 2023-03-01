@@ -1,33 +1,26 @@
 ---
-description: Streamflow — token distribution platform
+description: Streamflow — token ops made easy
 cover: .gitbook/assets/gitbook-2800x600@1x.jpg
 coverY: 0
 ---
 
 # Introduction
 
-Streamflow is a suite of products that enables organizations (and individuals) to distribute funds in a simple and straightforward manner.
+## Vision
 
-## Motivation
+To fuel the crypto adoption by helping organizations with their token operations.
 
-Crypto-native businesses lack easy-to-use tools to do token vesting, payroll for team members and contributors, to have multi-signature treasuries, etc.
+## Mission
 
-Without these tools, we cannot have efficient and highly functioning organizations. **Streamflow solves this.**
+Streamflow helps organizations streamline their token operations so they can focus on the core business.
 
-We're building protocols, SDKs and applications to bridge those gaps and help organizations **stream**line the aforementioned processes and save time and money.
+We do so by helping organizations design, launch, and distribute the token, and align their token stakeholders' interests with vesting schedules, customizable distribution mechanisms, and tailored compensation planning, among other things.
 
-## Our Vision
 
-To make crypto-native financial workflows **simple.**
 
-## Our Mission
+We help investors track and manage their (vested) token portfolio easily across chains and services.
 
-Facilitate everyday financial workflows and payment-related tasks by creating decentralized, permissionless, and trust-minimized protocols, SDKs, and applications.
 
-Our initial suite of products includes a protocol for **streaming payments** and solutions for **token vesting,** **progressive payroll, and batch payments** built on top of it. These features are available on Solana and Aptos chains. In addition, we have multisignature vaults on Solana.
 
-Our aim is to make these services widely adopted by being the payment "rails" and enabling seamless integration of our services within other applications.
+Streamflow is also unlocking otherwise locked liquidity with Streamflow Exchange, a secondary market for vesting contracts (SAFTs) and locked tokens.
 
-Staring with Solana ecosystem, we have expanded to Aptos and onboarding traditional (web2) projects.
-
-Last, but not least, we are dedicated to utilizing blockchain technology advancements to stay at the frontline of a financial shift taking place in the world.
