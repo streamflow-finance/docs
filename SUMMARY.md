@@ -8,6 +8,7 @@
 * [Protocol](streamflow/timelock-protocol.md)
 * [Roadmap](streamflow/roadmap.md)
 * [🫂 Team](streamflow/team.md)
+* [Chain Addresses](streamflow/chain-addresses.md)
 
 ## 📦 Products
 
