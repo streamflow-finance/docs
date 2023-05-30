@@ -1,4 +1,10 @@
+---
+description: Happy Bonking!
+---
+
 # How to withdraw your $BONK
+
+![](<../.gitbook/assets/image (5).png>)
 
 To withdraw your vested $BONK you'll need to complete some simple KYC steps. Let's get started!
 
