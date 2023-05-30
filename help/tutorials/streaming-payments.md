@@ -26,7 +26,7 @@ Release frequency will determine how often locked tokens in the stream are going
 
 Let’s say an employee’s weekly salary is 2000 STRM, either you can choose the old school way of releasing 2000 STRM at the end of each week by setting the release frequency to one week and the release amount to 2000 STRM, or you can proportionally breakdown the total salary amount into smaller amounts and release that in smaller time units like X number of seconds, minutes, hours, and days.
 
-To stream the 2000 STRM weekly salary in nearly real-time, you will have to set the release rate to 0.00330687830 STRM and the **** release frequency to one second, as shown in the screenshot.
+To stream the 2000 STRM weekly salary in nearly real-time, you will have to set the release rate to 0.00330687830 STRM and the release frequency to one second, as shown in the screenshot.
 
 ![Choosing total amount and release rate](../../.gitbook/assets/0.0033068783068.png)
 

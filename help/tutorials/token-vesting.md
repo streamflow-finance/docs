@@ -44,7 +44,7 @@ For Aptos, Streamflow supports the following wallets:
 * Clover
 * Spacecy
 
-****\
+\
 **Step 2:** **Select the token, release frequency, and vesting duration**
 
 Select the token of your choice that you want to vest from the drop-down list of the Solana/Aptos tokens available in your wallet. You will also be able to see the token balance.
@@ -53,7 +53,7 @@ Next, you need to select the **release frequency** that can be chosen in the for
 
 The duration of the vesting contract is an important parameter, you can choose the start date/time and end date/time of the vesting contract from the respective tabs.
 
-****![](<../../.gitbook/assets/Screenshot 2023-01-03 at 19.04.04.png>)****\
+![](<../../.gitbook/assets/Screenshot 2023-01-03 at 19.04.04.png>)\
 **Step 3:** **Cliff time release and cancel/transfer permission**
 
 By using the cliff time release feature, a certain percentage of the total vested tokens can be released with the first flow/unlock of the vested funds.\
@@ -68,7 +68,7 @@ This means that 5 USDC (10% OF 50 USDC) will get unlocked as soon as the vesting
 
 ![](<../../.gitbook/assets/Screenshot 2023-01-03 at 18.58.48 (1).png>)
 
-****\
+\
 **Step 4: Adding recipient(s) with vesting amount, contract title, and email address (Manually)**
 
 The Streamflow app supports the creation of vesting contracts in bulk, in other words, you can add as many recipients as you need with the vesting amounts of your choice for each recipient. You can also add the title of the contract for each recipient along with the (optional) email address.
@@ -83,10 +83,10 @@ You will get an option on the bottom left to add more recipients in order to cre
 
 ![Adding more recipients](<../../.gitbook/assets/Mr Bob.png>)
 
-****\
+\
 **CSV Upload: Import recipient addresses, token amounts, contract titles, and optional email addresses directly from a CSV file**\
-****\
-****Alternatively, if you are looking to set up vesting contracts for many recipients, you can alternatively make use of our CSV upload feature.
+\
+Alternatively, if you are looking to set up vesting contracts for many recipients, you can alternatively make use of our CSV upload feature.
 
 ![Click on CSV UPLOAD](<../../.gitbook/assets/Click here to import spreasheet (1).png>)
 
@@ -98,7 +98,7 @@ Just make sure that each row matches the following format:
 
 ![Format of CSV spreadsheet](<../../.gitbook/assets/Untitled design (88).png>)
 
-****\
+\
 **Step 5: Automatic withdrawal, referral address, and overview**
 
 Automatic withdrawal is a quite useful feature, it automatically transfers the unlocked tokens into the recipient’s wallet at the set frequency. It is not compulsory to enable auto-withdrawal, the recipient can also connect the wallet to the Streamflow app and manually withdraw the unlocked funds by interacting with the incoming vesting contract stream.
