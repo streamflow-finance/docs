@@ -40,7 +40,7 @@ _(\*\*\*) An escrow token account is created upon stream creation. When the reci
     \*\*\*\*The service fee is charged.\
     The tx signature fee is charged.
 
-    ***
+
 * **Withdraw**\
   \*\*\*\*On withdraw only tx signature fee is charged.
 *   **Transfer**\
@@ -48,6 +48,6 @@ _(\*\*\*) An escrow token account is created upon stream creation. When the reci
     \
     If the new recipient doesn't have a token account for the token that is transferred the associated token account creation fee will be charged.
 
-    ***
+
 * **Cancel**\
   \*\*\*\*On cancel only tx signature fee is charged.
