@@ -4,7 +4,7 @@ description: Meet the StreamTeam
 
 # 🫂 Team
 
-&#x20;   **Mališa** \
+&#x20;   **Malisha** \
 &#x20;                                                                       (Founder, CEO)                                     &#x20;
 
 &#x20;                                                   ![](../.gitbook/assets/img-streamflow-avatar-ms-91x.jpg)         \
@@ -23,26 +23,26 @@ description: Meet the StreamTeam
 \
 &#x20;               \
 &#x20;                                                                               **Markiz**\
-&#x20;                                                                                               (design)
+&#x20;                                                                                               (Design)
 
 &#x20;                                                   ![](../.gitbook/assets/img-streamflow-avatar-ma-71x.jpg)
 
 \
 &#x20;                                                                                                   **Lui** \
-&#x20;                                                   (communications, content, community)                    &#x20;
+&#x20;                                                                     (Product Manager)                    &#x20;
 
 &#x20;                                                   ![](../.gitbook/assets/img-streamflow-avatar-lk-61x.jpg)             \
 \
 &#x20;\
-&#x20;                                                                             **Watson**\
+&#x20;                                                                             **Oleg**\
 &#x20;                                                                                (software developer)                                   \
 \
-&#x20;                                                   ![](../.gitbook/assets/img-streamflow-avatar-nb-31x.jpeg)
+&#x20;                                                  &#x20;
 
 
 
 &#x20;                                                                                     **Sohail** **Mahroof**\
-&#x20;                                                                 (CM, product support)
+&#x20;                                                                        (BD, support)
 
 &#x20;                                                   ![](<../.gitbook/assets/img-streamflow-avatar-ms-81x (1).jpg>)
 
