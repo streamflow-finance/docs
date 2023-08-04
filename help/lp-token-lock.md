@@ -16,7 +16,7 @@ Locking LP tokens prevents depositors of the liquidity from withdrawing their fu
 
 ### How to lock LPs with Streamflow?
 
-To lock tokens, visit [\*\*Streamflow.finance/lp-lock](http://streamflow.finance/lp-lock).\*\* You can lock virtually any token including NFTs, using our Token-lock feature.
+To lock tokens, visit [Streamflow](https://app.streamflow.finance). You can lock virtually any token including NFTs, using our Token-lock feature.
 
 _Note: To lock LPs, You must provide liquidity for your token pairing or an existing token pair on a DEX (to receive LP tokens), before locking with Streamflow._
 
