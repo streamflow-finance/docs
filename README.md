@@ -1,26 +1,38 @@
 ---
-description: Streamflow — token ops made easy
+description: Streamflow — token ops. made easy
 cover: .gitbook/assets/gitbook-2800x600@1x.jpg
 coverY: 0
 ---
 
-# Introduction
+# What is Streamflow?
 
-## Vision
+**Streamflow** is a token operations platform allowing for programmable payments via token vesting, payroll, and other blockchain-based fund management techniques. By enabling organizations to handle their funds entirely on-chain, Streamflow helps teams cut costs, save time, and enhance transparency.&#x20;
 
-To fuel the crypto adoption by helping organizations with their token operations.
+Streamflow also maintains an [SDK](broken-reference) that allows teams to integrate 'streaming' capabilities into any app, allowing for the exploration of innovative value transfer and fund distribution methods.&#x20;
 
-## Mission
+Streamflow aims to provide a diverse range of projects with access to payment infrastructure, and in achieving this, it is available for use on the following blockchains:
 
-Streamflow helps organizations streamline their token operations so they can focus on the core business.
+* Solana
+* Ethereum
+* Polygon
+* Aptos&#x20;
+* BNB Chain
+* Sui
 
-We do so by helping organizations design, launch, and distribute the token, and align their token stakeholders' interests with vesting schedules, customizable distribution mechanisms, and tailored compensation planning, among other things.
+### Browse By Product
 
+{% content-ref url="products/token-vesting/" %}
+[token-vesting](products/token-vesting/)
+{% endcontent-ref %}
 
+{% content-ref url="products/stream-payments/" %}
+[stream-payments](products/stream-payments/)
+{% endcontent-ref %}
 
-We help investors track and manage their (vested) token portfolio easily across chains and services.
+{% content-ref url="products/token-lock.md" %}
+[token-lock.md](products/token-lock.md)
+{% endcontent-ref %}
 
-
-
-Streamflow is also unlocking otherwise locked liquidity with Streamflow Exchange, a secondary market for vesting contracts (SAFTs) and locked tokens.
-
+{% content-ref url="products/multisig-vaults-soon-tm/" %}
+[multisig-vaults-soon-tm](products/multisig-vaults-soon-tm/)
+{% endcontent-ref %}

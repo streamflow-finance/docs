@@ -32,21 +32,14 @@ description: Meet the StreamTeam
 &#x20;                                                                     (Product Manager)                    &#x20;
 
 &#x20;                                                   ![](../.gitbook/assets/img-streamflow-avatar-lk-61x.jpg)             \
-\
-&#x20;\
-&#x20;                                                                             **Oleg**\
-&#x20;                                                                                (software developer)                                   \
-\
-&#x20;                                                  &#x20;
-
-
+&#x20;                                                          &#x20;
 
 &#x20;                                                                                     **Sohail** **Mahroof**\
 &#x20;                                                                        (BD, support)
 
 &#x20;                                                   ![](<../.gitbook/assets/img-streamflow-avatar-ms-81x (1).jpg>)
 
-...and several other people that are waiting for their super cool avatars to be featured.
+...and several other people who are waiting for their super cool avatars to be featured.
 
 
 

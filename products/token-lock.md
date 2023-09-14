@@ -1,20 +1,18 @@
-# 🔓 LP Token Lock
+# 🔓 Token Lock
 
-Easily establish Token Locks to gate access to funds until a later date, helping to build trust with the community and safeguard against potential scams and rug pulls.
+Create Token Locks to gate access to funds until a later date, helping to build trust with the community and safeguard against potential scams and rug pulls.
 
 ### What is a Token Lock?
 
-Token locks require users to send tokens to a smart contract, where the tokens become inaccessible for trading or withdrawal. The tokens are held within the contract until the predetermined time period set by the token sender is fulfilled, at which point they are released.
+Token locks require users to send tokens to a smart contract, where the tokens become inaccessible for trading or withdrawal. The tokens are held within the contract until the time period set by the token sender is fulfilled, at which point they are released.
 
-Token-locks are most often used to lock liquidity pool (LP) tokens —from your project's liquidity allocation— for a fixed amount of time. Liquidity Pool (LP) Tokens are a type of receipt token representing ownership of a portion of liquidity within a decentralized exchange’s (DEXs) liquidity pool. When you list a token on a decentralized exchange (DEX) or deposit an existing token pair, you will receive what is known as 'LP Tokens.’
+Token Locks are most often used to lock liquidity pool (LP) tokens —from your project's liquidity allocation— for a fixed amount of time. Liquidity Pool (LP) Tokens are a type of receipt token representing ownership of a portion of liquidity within a decentralized exchange’s (DEXs) liquidity pool. When you list a token on a decentralized exchange (DEX) or deposit an existing token pair, you will receive what is known as 'LP Tokens.’
 
-<figure><img src="../.gitbook/assets/Screen Shot 2023-08-02 at 12.12.36 PM.png" alt=""><figcaption></figcaption></figure>
-
-stSOL/USDC LP tokens from Raydium DEX on Solana
+<figure><img src="../.gitbook/assets/Screen Shot 2023-08-02 at 12.12.36 PM.png" alt=""><figcaption><p>stSOL/USDC LP tokens from Raydium DEX on Solana</p></figcaption></figure>
 
 Locking LP tokens prevents depositors of the liquidity from withdrawing their funds. It guarantees the community that liquidity will remain within the DEX to facilitate swaps, and not be cashed out by developers or project founders (like we’ve recently witnessed with [the launch of $BALD token on Base Network](https://cointelegraph.com/news/bald-token-developer-denies-rug-pull-price-falls-post-launch)). The locked LP tokens can only be withdrawn or changed at the end of the locked period(s).
 
-### How to lock LPs with Streamflow?
+## How to lock LPs with Streamflow?
 
 To lock tokens, visit [Streamflow](https://app.streamflow.finance). You can lock virtually any token including NFTs, using our Token-lock feature.
 
@@ -26,9 +24,9 @@ _Note: To lock LPs, You must provide liquidity for your token pairing or an exis
 2. Click **‘create new’,** to set up a new token lock
 3. Choose the **token**
 4. Set a **time & date** for the tokens to unlock
-5.  Set the **amount** of funds you’d like to unlock, to your wallet
+5.  Set the '**amount'** of funds you’d like to unlock to your wallet
 
-    Note: If you’re locking funds for other wallets, toggle **‘I am the recipient’** off\*\*,\*\* to enter other wallets
+    Note: If you’re locking funds for other wallets, toggle **‘I am the recipient’** off to enter other wallets
 6. Click ‘**create lock**’ to lock tokens
 
 ### FAQ
