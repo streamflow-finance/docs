@@ -4,11 +4,11 @@ description: >-
   Aptos using Streamflow app
 ---
 
-# 💰 Token Vesting
+# 💰 Create a Vesting contract
 
 Streamflow is the leading platform for token vesting on the Solana and Aptos networks.\
 \
-The Streamflow token vesting app is the most efficient way to vest SPL tokens to investors, venture capitalists, investors, teams, and communities on the Solana and Aptos network. The SPL token vesting contracts on Streamflow are configurable with many unique features, such as automatic withdrawal, CSV upload to create vesting contracts in bulk, cliff time release, email notifications, and many more.
+The Streamflow token vesting app is the most efficient way to vest SPL tokens to investors, venture capitalists, investors, teams, and communities on the Solana and Aptos network. The SPL token vesting contracts on Streamflow are configurable with many unique features, such as automatic claim, CSV upload to create vesting contracts in bulk, cliff time release, email notifications, and many more.
 
 Let’s go through a step-by-step process of creating token vesting contracts on Solana using Streamflow.
 
@@ -99,13 +99,13 @@ Just make sure that each row matches the following format:
 ![Format of CSV spreadsheet](<../../.gitbook/assets/Untitled design (88).png>)
 
 \
-**Step 5: Automatic withdrawal, referral address, and overview**
+**Step 5: Automatic claim, referral address, and overview**
 
-Automatic withdrawal is a quite useful feature, it automatically transfers the unlocked tokens into the recipient’s wallet at the set frequency. It is not compulsory to enable auto-withdrawal, the recipient can also connect the wallet to the Streamflow app and manually withdraw the unlocked funds by interacting with the incoming vesting contract stream.
+Automatic claim is a quite useful feature, it automatically transfers the unlocked tokens into the recipient’s wallet at the set frequency. It is not compulsory to enable auto-withdrawal, the recipient can also connect the wallet to the Streamflow app and manually withdraw the unlocked funds by interacting with the incoming vesting contract stream.
 
 In case someone referred you to Streamflow token vesting, just paste the wallet address of the referrer into the referral address tab. A decent portion of the service fees will be sent to the referral address as a reward.
 
-![Automatic withdrawal](<../../.gitbook/assets/streaming auto withdrawal shot (1) (1).png>)
+![Automatic claim](<../../.gitbook/assets/streaming auto withdrawal shot (1) (1).png>)
 
 ![Referral address](<../../.gitbook/assets/ref address] (1).JPG>)
 

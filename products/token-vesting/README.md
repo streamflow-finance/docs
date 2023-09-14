@@ -12,7 +12,7 @@ Token vesting can become a quite painful and cumbersome process that consumes th
 
 Our fully featured token vesting product includes a number of helpful features:
 
-* **Automatic withdrawal:** Set the streamed tokens to be automatically dropped into the recipient's wallet - no need for the recipient to claim or withdraw!
+* **Automatic claim:** Set the streamed tokens to be automatically dropped into the recipient's wallet - no need for the recipient to claim or withdraw!
 * **Batch payments (with CSV Upload):** Create a contract with many recipients, either by manually adding the additional recipients you require or by uploading a CSV with all the recipients and their addresses - our CSV Upload feature takes care of the rest!&#x20;
 
 For instructions on how to set up vesting contracts using the Streamflow app, see [this guide](https://docs.streamflow.finance/help/tutorials/token-vesting).
