@@ -2,7 +2,7 @@
 description: Interact with the protocol to create streams and vesting contracts
 ---
 
-{% include "git+https://github.com/streamflow-finance/js-sdk.git/packages/stream/README.md" %}
+{% include "git+https://github.com/streamflow-finance/js-sdk.git/README.md#master" %}
 
 ---
 
