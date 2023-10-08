@@ -1,15 +1,19 @@
 ---
 description: >-
-  A step-by-step guide on how to set up token vesting contracts on Solana and
-  Aptos using Streamflow app
+  Following video walks you through complete process for creating vesting
+  contracts on Ethereum mainnet, BNB Chain, Polygon, Solana, Aptos and Sui
+  network.
 ---
 
 # 💰 Create a Vesting contract
 
-Streamflow is the leading platform for token vesting on the Solana and Aptos networks.\
-\
-The Streamflow token vesting app is the most efficient way to vest SPL tokens to investors, venture capitalists, investors, teams, and communities on the Solana and Aptos network. The SPL token vesting contracts on Streamflow are configurable with many unique features, such as automatic claim, CSV upload to create vesting contracts in bulk, cliff time release, email notifications, and many more.
+{% embed url="https://www.loom.com/share/614e86c2919b440f8b5f77e987643abb?sid=c8e4c13a-5111-436f-913e-ee0dfa78c751" %}
+Streamflow token vesting
+{% endembed %}
 
+\
+**Text tutorial:**\
+\
 Let’s go through a step-by-step process of creating token vesting contracts on Solana using Streamflow.
 
 #### Step 1: Connect the wallet
