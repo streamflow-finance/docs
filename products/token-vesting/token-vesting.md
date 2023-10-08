@@ -148,5 +148,5 @@ When a vesting contract is canceled, the amount that has not been unlocked yet i
 
 **Conclusion**\
 \
-You are now all set to set up token vesting contracts on Solana or Aptos using Streamflow dApp. In case you get stuck at any point, feel free to reach out to us in Streamflow discord.
+You are now all set to set up token vesting contracts using Streamflow dApp. In case you get stuck at any point, feel free to reach out to us in Streamflow discord.
 
