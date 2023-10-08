@@ -26,6 +26,8 @@ All the wallet addresses are whitelisted within 24 hours.
 \
 **Airdrop distribution:** vested and non-vested airdrop tool \
 \
+**Multisig wallet:** currently supported on Solana only, we will expand support for other networks too in future\
+\
 **Token mint:** coming soon
 
 ### **Does Streamflow charge any fees for its products?**
