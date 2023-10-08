@@ -2,16 +2,15 @@
 description: Streamflow fees explanation
 ---
 
-# Fees
+# 💰 Fees
 
-Streamflow charges 0.25% service fee on top of tokens deposited into vesting, payment or token lock contracts on all the supported networks.\
+**Service fees:** Streamflow charges 0.25% service fee on top of tokens deposited into vesting, payment or token lock contracts on all the supported networks.\
 \
-Note: we also offer custom fees in stable coins, please [book a call](https://calendly.com/streamflow-bd/discovery?month=2023-10) for custom fee offer.
+**Note:** we also offer custom fees in stable coins, please [book a call](https://calendly.com/streamflow-bd/discovery?month=2023-10) for custom fee offer.
 
-In addition to the Streamflow fees, standard network gas fees apply to transaction for creating or interacting with contracts.\
+**Network fees:** In addition to the Streamflow fees, standard network gas fees apply to transaction for creating or interacting with contracts.\
 \
-The gas fee required for creating contracts on Ethereum, BNB Chain, Polygon, Sui and Aptos is same as for making a swap on the given network.\
-
+The gas fee required for creating contracts on Ethereum, BNB Chain, Polygon, Sui and Aptos is same as for making a swap on the given network.
 
 For Solana, the complete breakdown for network fees is given below:
 

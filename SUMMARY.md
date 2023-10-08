@@ -38,4 +38,4 @@
   * [Address Book](help/tutorials/address-book.md)
 * [How to withdraw your $BONK](help/how-to-withdraw-your-usdbonk.md)
 * [FAQ](help/faq.md)
-* [Fees](help/fees.md)
+* [💰 Fees](help/fees.md)
