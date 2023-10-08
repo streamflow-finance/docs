@@ -4,11 +4,16 @@ description: Streamflow fees explanation
 
 # Fees
 
-A small service fee is charged on the Streamflow app.
+Streamflow charges 0.25% service fee on top of tokens deposited into vesting, payment or token lock contracts on all the supported networks.\
+\
+Note: we also offer custom fees in stable coins, please [book a call](https://calendly.com/streamflow-bd/discovery?month=2023-10) for custom fee offer.
 
-In addition to the Streamflow fees, Solana network charges certain fees as well.
+In addition to the Streamflow fees, standard network gas fees apply to transaction for creating or interacting with contracts.\
+\
+The gas fee required for creating contracts on Ethereum, BNB Chain, Polygon, Sui and Aptos is same as for making a swap on the given network.\
 
-An overview of fees is presented here:
+
+For Solana, the complete breakdown for network fees is given below:
 
 | Name                              | Explanation                                                                                                                                          | Fee                                          | Origin     |
 | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ---------- |
@@ -40,7 +45,7 @@ _(\*\*\*) An escrow token account is created upon stream creation. When the reci
     \*\*\*\*The service fee is charged.\
     The tx signature fee is charged.
 
-
+    ***
 * **Withdraw**\
   \*\*\*\*On withdraw only tx signature fee is charged.
 *   **Transfer**\
@@ -48,6 +53,6 @@ _(\*\*\*) An escrow token account is created upon stream creation. When the reci
     \
     If the new recipient doesn't have a token account for the token that is transferred the associated token account creation fee will be charged.
 
-
+    ***
 * **Cancel**\
   \*\*\*\*On cancel only tx signature fee is charged.
