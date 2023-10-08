@@ -14,7 +14,7 @@ Streamflow token vesting
 \
 **Text tutorial:**\
 \
-Let’s go through a step-by-step process of creating token vesting contracts on Solana using Streamflow.
+Let’s go through a step-by-step process of creating token vesting contracts using Streamflow.
 
 #### Step 1: Connect the wallet
 
@@ -22,31 +22,7 @@ Firstly, you need to visit the Streamflow app via the following URL:
 
 👉 [app.streamflow.finance](https://bit.ly/3igHaDj)
 
-Next, you will have to connect the wallet to start using the app.&#x20;
-
-For Solana, Streamflow supports the following wallets:
-
-* Phantom
-* Solflare
-* Ledger
-* Backpack
-* WalletConnect
-
-For Aptos, Streamflow supports the following wallets:
-
-* Rise Wallet
-* Hippo Web
-* Martian
-* Petra
-* Fewcha
-* Hippo
-* Pontem
-* Spika
-* TokenPocket
-* ONTO
-* FoxWallet
-* Clover
-* Spacecy
+Next, you will have to connect the wallet to start using the app. We support majority of wallets on Ethereum mainnet, BNB Chain, Polygon, Solana, Aptos and Sui network.
 
 \
 **Step 2:** **Select the token, release frequency, and vesting duration**
@@ -58,6 +34,7 @@ Next, you need to select the **release frequency** that can be chosen in the for
 The duration of the vesting contract is an important parameter, you can choose the start date/time and end date/time of the vesting contract from the respective tabs.
 
 ![](<../../.gitbook/assets/Screenshot 2023-01-03 at 19.04.04.png>)\
+\
 **Step 3:** **Cliff time release and cancel/transfer permission**
 
 By using the cliff time release feature, a certain percentage of the total vested tokens can be released with the first flow/unlock of the vested funds.\
