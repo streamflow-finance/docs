@@ -35,7 +35,7 @@ Our fully featured token vesting product includes a number of helpful features:
 
 * **SDK integration:** Streamflow SDK supports multiple chains for integration \
   \
-  The UI of the Streamflow app is super elegant, user friendly with highly configurable :
+  The UI of the Streamflow app is super elegant, user friendly and highly configurable :
 
 <figure><img src="../../.gitbook/assets/Shot 1 app.png" alt=""><figcaption><p>Streamflow app UI</p></figcaption></figure>
 
@@ -45,9 +45,9 @@ Our fully featured token vesting product includes a number of helpful features:
 
 For instructions on how to set up vesting contracts using the Streamflow app, see [this guide](https://docs.streamflow.finance/help/tutorials/token-vesting).\
 \
-Book a call with us for live demo of app for you token vesting: [Streamflow Calendly](https://calendly.com/streamflow-bd/token-vesting?month=2023-09\&date=2023-09-29)\
+**Book a call with us for live demo of app for your vesting schedule:** [Streamflow Calendly](https://calendly.com/streamflow-bd/token-vesting?month=2023-09\&date=2023-09-29)\
 \
-**Visit our app to get started with token vesting:**
+Visit our app to get started with token vesting:
 
 {% embed url="https://app.streamflow.finance/vesting" %}
 Streamflow app
