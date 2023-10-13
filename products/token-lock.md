@@ -1,6 +1,8 @@
 # 🔓 Token Lock
 
-Create Token Locks to gate access to funds until a later date, helping to build trust with the community and safeguard against potential scams and rug pulls.
+Streamflow Token lock feature is used to lock tokens until a specific date and time on Ethereum miannet, BNB Chain, Solana, Polygon, Aptos, and Sui network.\
+\
+![🔐](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)Projects can also use token lock feature to lock LP tokens to be more transparent with community and investors as LP token locking acts as an on-chain proof against rug-pulls ![👨‍💻](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)&#x20;
 
 ### What is a Token Lock?
 
