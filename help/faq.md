@@ -1,10 +1,26 @@
 ---
 description: Frequently asked questions
+cover: ../.gitbook/assets/1500x500.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# FAQ
+# 💁 FAQ
 
-### What networks does Streamflow support for token vesting?
+### What networks does Streamflow support for token distribution?
 
 Streamflow [app](https://app.streamflow.finance) supports Ethereum mainnet, BNB Chain, Polygon, Aptos, Sui and Solana for token vesting, payments and token locks.
 
