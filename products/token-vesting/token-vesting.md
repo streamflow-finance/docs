@@ -33,9 +33,11 @@ Next, you need to select the **release frequency** that can be chosen in the for
 
 The duration of the vesting contract is an important parameter, you can choose the start date/time and end date/time of the vesting contract from the respective tabs.
 
-![](<../../.gitbook/assets/Screenshot 2023-01-03 at 19.04.04.png>)\
+\
 \
 **Step 3:** **Cliff time release and cancel/transfer permission**
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-01-03 at 19.04.04.png" alt=""><figcaption></figcaption></figure>
 
 By using the cliff time release feature, a certain percentage of the total vested tokens can be released with the first flow/unlock of the vested funds.\
 \
@@ -47,7 +49,7 @@ This means that 5 USDC (10% OF 50 USDC) will get unlocked as soon as the vesting
 
 **Moving on to cancel/transfer permissions**, you can choose who gets the authority to cancel or \*\*\*\* transfer \*\*\*\* the vesting contract from the sender/recipient. Please grant these permissions carefully because you can not change cancel and transfer permissions once a contract has gone live.
 
-![](<../../.gitbook/assets/Screenshot 2023-01-03 at 18.58.48 (1).png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2023-01-03 at 18.58.48 (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 **Step 4: Adding recipient(s) with vesting amount, contract title, and email address (Manually)**
