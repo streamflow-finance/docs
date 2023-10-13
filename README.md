@@ -19,6 +19,8 @@ Streamflow aims to provide a diverse range of projects with access to payment in
 * BNB Chain
 * Sui
 
+<figure><img src=".gitbook/assets/Blurb.png" alt=""><figcaption></figcaption></figure>
+
 ### Browse By Product
 
 {% content-ref url="products/token-vesting/" %}
