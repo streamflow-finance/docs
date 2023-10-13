@@ -4,7 +4,7 @@ description: Streamflow fees explanation
 
 # 💰 Fees
 
-**Service fees:** Streamflow charges 0.25% service fee on top of tokens deposited into vesting, payment or token lock contracts on all the supported networks.\
+**Service fees:** Streamflow charges 0.25% service fee on top of tokens deposited into vesting, payment or token lock contracts on all networks that we support.\
 \
 **Note:** we also offer custom fees in stable coins, please [book a call](https://calendly.com/streamflow-bd/discovery?month=2023-10) for custom fee offer.
 
