@@ -32,14 +32,22 @@ Our fully featured token vesting product includes a number of helpful features:
 * **Email notifications:** notify recipients of vesting contracts at each unlock.\
 
 * **Public Dashboard:** Our public dashboard feature lets teams showcase all the token vesting and lock contracts to community and investors to be more transparent.\
+
+* **SDK integration:** Streamflow SDK supports multiple chains for integration \
   \
-  The UI of the Streamflow app is super elegant and user friendly with highly configurable :
+  The UI of the Streamflow app is super elegant, user friendly with highly configurable :
 
-<figure><img src="../../.gitbook/assets/Shot 1 app.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Shot 1 app.png" alt=""><figcaption><p>Streamflow app UI</p></figcaption></figure>
 
-For instructions on how to set up vesting contracts using the Streamflow app, see [this guide](https://docs.streamflow.finance/help/tutorials/token-vesting).
+<figure><img src="../../.gitbook/assets/shot 2 app.png" alt=""><figcaption><p>Streamflow app UI</p></figcaption></figure>
 
-Permission less, decentralized, trustless token vesting is available at:
+<figure><img src="../../.gitbook/assets/shot 3.png" alt=""><figcaption><p>Streamflow app UI<br></p></figcaption></figure>
+
+For instructions on how to set up vesting contracts using the Streamflow app, see [this guide](https://docs.streamflow.finance/help/tutorials/token-vesting).\
+\
+Book a call with us for live demo of app for you token vesting: [Streamflow Calendly](https://calendly.com/streamflow-bd/token-vesting?month=2023-09\&date=2023-09-29)\
+\
+**Visit our app to get started with token vesting:**
 
 {% embed url="https://app.streamflow.finance/vesting" %}
 Streamflow app
