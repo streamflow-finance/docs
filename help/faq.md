@@ -8,12 +8,6 @@ description: Frequently asked questions
 
 Streamflow [app](https://app.streamflow.finance) supports Ethereum mainnet, BNB Chain, Polygon, Aptos, Sui and Solana for token vesting, payments and token locks.
 
-### How to get the wallet whitelisted for gated access to Streamflow app?
-
-The wallet addresses for whitelisting to access Streamflow app can be submitted to the form: [Gates access form](https://docs.google.com/forms/d/e/1FAIpQLSejw\_uj26RNVoe8Hu1rzq29eu7mE-SJ9Q41QtrvA1N0UDkbyA/viewform)\
-\
-All the wallet addresses are whitelisted within 24 hours.
-
 ### What products does Streamflow offer?&#x20;
 
 **Vesting contracts**: A contract with a fixed time duration for token distribution to investors, team, community and stakeholder with **linear** or **non-linear** vesting schedule\
@@ -36,9 +30,19 @@ The Streamflow app has a small service fee of 0.25% on top of the amount being s
 \
 You can look into the detailed fee structure here: [fees.md](fees.md "mention")
 
+### Does Streamflow have SDK for integrations?
+
+Streamflow has JS-SDK that supports Ethereum mainnet, BNB Chain, Polygon, Aptos, Sui, and Solana.\
+\
+Streamflow JS-SDK: [https://github.com/streamflow-finance/js-sdk](https://github.com/streamflow-finance/js-sdk)\
+\
+We also have Rust SDK for Solana:\
+\
+&#x20;[https://github.com/streamflow-finance/rust-sdk](https://github.com/streamflow-finance/rust-sdk)
+
 ### Do you have plans to launch a token?&#x20;
 
-Yes, Streamflow has plans of launching its native token ‘STRM’. The tokenomics and launch schedule are yet to be announced.&#x20;
+Yes, Streamflow has plans of launching its native token called STRM. The tokenomics and launch schedule are yet to be announced.&#x20;
 
 ### **Who is the team behind this?**
 
