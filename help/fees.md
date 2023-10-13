@@ -23,6 +23,7 @@ For Solana, the complete breakdown for network fees is given below:
 | Signature                         | Solana charges fees per transaction signature.                                                                                                       | 0.000005 SOL                                 | Solana     |
 
 _(\*) This means that the fee is not fully unlocked upon stream creation, but it is gradually unlocked over the course of the stream._\
+\
 _It is important to mention that the fee is charged on top of the amount that is streamed, e.g. if 100 BTC is streamed, the sender account will be debited by 100.25 BTC._\
 \_\_\
 _(\*\*) Solana network charges storage rent for the account creation._\
@@ -33,25 +34,36 @@ _(\*\*\*) An escrow token account is created upon stream creation. When the reci
 ### Streamflow transactions
 
 * **Create stream**\
-  \*\*\*\*There are few fees here:\
-  \- service fee of 0.25% on top of the amount you are streaming\
-  \- metadata account creation fee\
-  \- escrow token account creation fee\
-  \- 2 \* tx signature fee\
   \
-  \- If the recipient doesn't have a token account for the token that is streamed, the associated token account creation fee will be charged.
+  There are few fees here:\
+  \- service fee of 0.25% on top of the amount you are streaming\
+  \- Network fees \
+  \
+  If the recipient doesn't have a token account for the token that is streamed, the associated token account creation fee will be charged.\
+
 *   **Top up the stream**\
-    \*\*\*\*The service fee is charged.\
-    The tx signature fee is charged.
+    \
+    The service fee is charged on top of new amount deposited into the stream\
+    The network fee for signing the transaction is charged\
+
 
     ***
-* **Withdraw**\
-  \*\*\*\*On withdraw only tx signature fee is charged.
+* **Manual Withdraw**\
+  \
+  The network fee is paid by recipient on withdraw transaction\
+
+* **Auto-claim fees**\
+  \
+  In case sender enables auto-claim feature for the stream, transaction fee is paid by sender for each auto-claim that happens at each unlock\
+
 *   **Transfer**\
-    \*\*\*\*On transfer tx signature fee is charged.\
     \
-    If the new recipient doesn't have a token account for the token that is transferred the associated token account creation fee will be charged.
+    The network fee is charged on transaction for transferring the stream\
+    \
+    If the new recipient doesn't have a token account for the token that is transferred, the associated token account creation fee will be charged.\
+
 
     ***
 * **Cancel**\
-  \*\*\*\*On cancel only tx signature fee is charged.
+  \
+  The network fee is charged on transaction for canceling the stream
