@@ -31,7 +31,11 @@ Our fully featured token vesting product includes a number of helpful features:
 
 * **Email notifications:** notify recipients of vesting contracts at each unlock.\
 
-* **Public Dashboard:** Our public dashboard feature lets teams showcase all the token vesting and lock contracts to community and investors to be more transparent.
+* **Public Dashboard:** Our public dashboard feature lets teams showcase all the token vesting and lock contracts to community and investors to be more transparent.\
+  \
+  The UI of the Streamflow app is super elegant and user friendly with highly configurable :
+
+<figure><img src="../../.gitbook/assets/Shot 1 app.png" alt=""><figcaption></figcaption></figure>
 
 For instructions on how to set up vesting contracts using the Streamflow app, see [this guide](https://docs.streamflow.finance/help/tutorials/token-vesting).
 
