@@ -1,8 +1,5 @@
 ---
-description: >-
-  Following video walks you through complete process for creating vesting
-  contracts on Ethereum mainnet, BNB Chain, Polygon, Solana, Aptos and Sui
-  network.
+description: A complete guide on creating vesting contracts on Streamflow app
 ---
 
 # 💰 Create a Vesting contract
