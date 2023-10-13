@@ -36,6 +36,5 @@
   * [💰 Top up contracts \[Stream Payment Functionality\]](help/tutorials/top-up-contracts-stream-payment-functionality.md)
   * [💰 Referral Program](help/tutorials/referral-program.md)
   * [Address Book](help/tutorials/address-book.md)
-* [How to withdraw your $BONK](help/how-to-withdraw-your-usdbonk.md)
 * [💁 FAQ](help/faq.md)
 * [💰 Fees](help/fees.md)
