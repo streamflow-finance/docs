@@ -8,7 +8,7 @@ description: Frequently asked questions
 
 Streamflow [app](https://app.streamflow.finance) supports Ethereum mainnet, BNB Chain, Polygon, Aptos, Sui and Solana for token vesting, payments and token locks.
 
-### What products does Streamflow offer?&#x20;
+### What products and services does Streamflow offer?&#x20;
 
 **Vesting contracts**: A contract with a fixed time duration for token distribution to investors, team, community and stakeholder with **linear** or **non-linear** vesting schedule\
 \
@@ -23,6 +23,12 @@ Streamflow [app](https://app.streamflow.finance) supports Ethereum mainnet, BNB 
 **Multisig wallet:** currently supported on Solana only, we will expand support for other networks too in future\
 \
 **Token mint:** coming soon
+
+### How does Streamflow help crypto startups and companies?
+
+We help crypto companies to become legally compliant and getting registered in crypto friendly regions.\
+\
+Book a call through Calendly for free consultation: [Streamflow Calendly](https://calendly.com/streamflow-bd/discovery?month=2023-10)
 
 ### **Does Streamflow charge any fees for its products?**
 
@@ -39,6 +45,12 @@ Streamflow JS-SDK: [https://github.com/streamflow-finance/js-sdk](https://github
 We also have Rust SDK for Solana:\
 \
 &#x20;[https://github.com/streamflow-finance/rust-sdk](https://github.com/streamflow-finance/rust-sdk)
+
+### Has Streamflow been audited?
+
+Streamflow has been audited by four major auditors.\
+\
+Streamflow has been audited by [**FYEO**](https://www.fyeo.io/) for EVM chains, **OPCODES** and [**FYEO**](https://www.fyeo.io) for Solana, [**OtterSec**](https://osec.io/) for Aptos and [**MoveBit** ](https://www.movebit.xyz/)for Sui network.
 
 ### Do you have plans to launch a token?&#x20;
 
