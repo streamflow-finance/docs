@@ -37,11 +37,11 @@ Our fully featured token vesting product includes a number of helpful features:
   \
   The UI of the Streamflow app is super elegant, user friendly and highly configurable :
 
-<figure><img src="../../.gitbook/assets/Shot 1 app.png" alt=""><figcaption><p>Streamflow app UI</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Shot 1 app.png" alt="" width="563"><figcaption><p>Streamflow app UI</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/shot 2 app.png" alt=""><figcaption><p>Streamflow app UI</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/shot 2 app.png" alt="" width="563"><figcaption><p>Streamflow app UI</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/shot 3.png" alt=""><figcaption><p>Streamflow app UI<br></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/shot 3.png" alt="" width="563"><figcaption><p>Streamflow app UI<br></p></figcaption></figure>
 
 For instructions on how to set up vesting contracts using the Streamflow app, see [this guide](https://docs.streamflow.finance/help/tutorials/token-vesting).\
 \
