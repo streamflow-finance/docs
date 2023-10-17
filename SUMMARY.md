@@ -1,40 +1,41 @@
 # Table of contents
 
-* [What is Streamflow?](README.md)
+## BASICS
 
-## 📦 Products
+* [Welcome to Streamflow](README.md)
+* [Token Vesting](basics/token-vesting.md)
+* [Payments](basics/stream-payments.md)
+* [Token Lock](basics/token-lock.md)
+* [Roadmap](basics/roadmap.md)
+* [Who are we - Streamflow](basics/team.md)
 
-* [📊 Token Vesting](products/token-vesting/README.md)
-  * [💰 Create a Vesting contract](products/token-vesting/token-vesting.md)
-* [💸 Stream Payments](products/stream-payments/README.md)
-  * [💰 Set up a Streaming Payment](products/stream-payments/streaming-payments.md)
-* [🔓 Token Lock](products/token-lock.md)
-* [🫂 Multi-signature Wallet](products/multisig-vaults-soon-tm/README.md)
-  * [💰 How to set up a multisig beta wallet](products/multisig-vaults-soon-tm/how-to-set-up-a-multisig-beta-wallet.md)
+## GETTING STARTED
 
-## 🤝 Developer tools
+* [Create a Vesting Contract](getting-started/token-vesting.md)
+
+## Using StreamFlow
+
+* [Create a Token Lock](using-streamflow/create-a-token-lock/README.md)
+  * [How to lock LPs with Streamflow?](using-streamflow/create-a-token-lock/how-to-lock-lps-with-streamflow.md)
+  * [Token Lock FAQ](using-streamflow/create-a-token-lock/token-lock-faq.md)
+* [Create a Payment Contract](using-streamflow/payment-contract.md)
+* [Claiming unlocked tokens](using-streamflow/withdrawing-payments.md)
+* [Transfer Contract](using-streamflow/transfering-contracts.md)
+* [Cancel Contract](using-streamflow/canceling-contracts.md)
+* [Top up Payment Contract](using-streamflow/top-up-contracts-stream-payment-functionality.md)
+* [Referral Program](using-streamflow/referral-program.md)
+* [Batch Contracts with CSV](using-streamflow/batch-payments-soon-tm.md)
+* [Address Book](using-streamflow/address-book.md)
+
+## FREQUENTLY ASKED QUESTIONS
+
+* [General](frequently-asked-questions/general.md)
+* [Costs of using Streamflow](frequently-asked-questions/costs-of-using-streamflow.md)
+
+## Developer tools
 
 * [Overview](developer-tools/overview/README.md)
   * [Javascript SDK](developer-tools/overview/javascript-sdk.md)
   * [Rust SDK](developer-tools/overview/rust-sdk.md)
 * [Grant Program](developer-tools/grant-program.md)
-
-## StreamFlow
-
-* [Resources](streamflow/community.md)
-* [Roadmap](streamflow/roadmap.md)
-* [🫂 Team](streamflow/team.md)
-* [Chain Addresses](streamflow/chain-addresses.md)
-
-## 🆘 Help
-
-* [Tutorials](help/tutorials/README.md)
-  * [Batch Payments (CSV Upload)](help/tutorials/batch-payments-soon-tm.md)
-  * [💰 Withdrawing Payments](help/tutorials/withdrawing-payments.md)
-  * [💰 Transfering Contracts](help/tutorials/transfering-contracts.md)
-  * [💰 Canceling Contracts](help/tutorials/canceling-contracts.md)
-  * [💰 Top up contracts \[Stream Payment Functionality\]](help/tutorials/top-up-contracts-stream-payment-functionality.md)
-  * [💰 Referral Program](help/tutorials/referral-program.md)
-  * [Address Book](help/tutorials/address-book.md)
-* [💁 FAQ](help/faq.md)
-* [💰 Fees](help/fees.md)
+* [Chain Addresses](developer-tools/chain-addresses.md)

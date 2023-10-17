@@ -1,20 +1,21 @@
 ---
-description: Build an app on top of the Streamflow protocol
+description: Integrate with the Streamflow protocol
 ---
 
 # Overview
 
-Streamflow is fully composable, supporting integration with various protocols via the Streamflow SDK. At the core of **Streamflow** is a protocol for streaming payments, that acts like a time-lock escrow service for funds.&#x20;
+Streamflow is fully composable, supporting integration with various protocols via the Streamflow SDK. At the core of **Streamflow** is a protocol for programmable payments which acts like a time-lock escrow service for funds.&#x20;
 
-Streamflow Protocol allows the creation of scheduled Token Transfers from one account to another. This transfer may be done in the form of an actual token transfer on the chain to a Recipient address or just as an unlock, meaning that after a certain time, the Recipient may claim Tokens manually.&#x20;
+Streamflow Protocol allows the creation of scheduled Token Transfers from one account to another. This transfer may be done in the form of an actual token transfer on the chain to a Recipient address or as an unlock, meaning that after a certain time, the Recipient may claim tokens manually.&#x20;
 
-The schedule may be configured to send/unlock these tokens partially with some amount (absolute value) being unlocked every unlock period. The Sender may also configure a cliff - a one-time unlock of a certain amount (different from the usual unlock amount configured in the Stream) -that will be done as the first unlock.
+The schedule may be configured to send/unlock these tokens partially with some amount (absolute value) being unlocked every unlock period. The sender may also configure a cliff - a one-time unlock of a certain amount (different from the usual unlock amount configured in the contract) -that will be done as the first unlock.
 
 ## Streamflow SDK
 
 &#x20;[_**app.streamflow.finance**_](https://app.streamflow.finance/?utm\_medium=github.com\&utm\_source=referral\&utm\_campaign=js-sdk-repo) _is a React application that uses Streamflow's JS SDK directly._
 
 * Use the [**JS SDK**](https://github.com/streamflow-finance/js-sdk) to interact with the protocol => [NPM package](https://www.npmjs.com/package/@streamflow/stream)
+  * It's possible to integrate with our JS SDK across all chains which Streamflow currently supports
 * Use the [**Rust SDK**](https://github.com/streamflow-finance/rust-sdk) to integrate within a Solana program => [Rust Crate](https://docs.rs/streamflow-sdk/)
 
 ## Methods
@@ -27,7 +28,7 @@ A protocol is a Program that lives on-chain. To interact with the Streamflow pro
 
 **Authority:** Anyone
 
-Creates a Stream, usually accepts these parameters
+Creates a Contract, usually accepts these parameters
 
 ```rust
 	amount: u64,
@@ -77,7 +78,7 @@ assert!(start < now + SEVENTY_YEARS_IN_SECS, EBAD_INPUT_START);
 
 **Authority:** Sender
 
-Updates a Stream, usually accepts these parameters
+Updates a Contract, usually accepts these parameters
 
 ```rust
 				automatic_withdrawal: Option<bool>,
@@ -101,7 +102,7 @@ All parameters are optional.
 
 **Authority:** configured by `cancelable_by_sender` and `cancelable_by_recipient` flags
 
-Cancel a Stream.
+Cancel a Contract.
 
 * all unlocked funds by the time of cancellation are withdrawn (including fees)
 * all leftover funds are returned to the Sender (including fees)
@@ -114,9 +115,9 @@ Cancel a Stream.
 
 **Authority:** Sender if `pausable` is enabled
 
-Pause a Stream
+Pause a Contract
 
-* when stream is paused, unlock calculation is halted
+* when contract is paused, unlock calculation is halted
 * all already unlocked funds may be withdrawn
 
 </details>
@@ -125,9 +126,9 @@ Pause a Stream
 
 <summary>Unpause</summary>
 
-**Authority:** Sender if `pausable` is enabled and stream is in `pause` state
+**Authority:** Sender if `pausable` is enabled and contract is in `pause` state
 
-Unpauses a Stream
+Unpauses a Contract
 
 * continue unlock calculation
 
@@ -163,6 +164,6 @@ Change Recipient address, usually accepts these parameters
 				new_recipient: address
 ```
 
-* on transfer unlocked funds **remain in a stream** (so new recipient can withdraw them)
+* on transfer unlocked funds **remain in a contract** (so new recipient can withdraw them)
 
 </details>
