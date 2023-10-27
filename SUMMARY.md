@@ -31,6 +31,7 @@
 
 * [General](frequently-asked-questions/general.md)
 * [Costs of using Streamflow](frequently-asked-questions/costs-of-using-streamflow.md)
+* [Claim Bonk airdrop](frequently-asked-questions/claim-bonk-airdrop.md)
 
 ## Developer tools
 
