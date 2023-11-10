@@ -8,7 +8,7 @@ We appreciate your patience as we are making some updates to make things run mor
 
 In the meantime, below are some tips and tricks for successfully claiming your airdrop.&#x20;
 
-* 1 user (user = Twitter and Discord account) can withdraw Bonk tokens from 1 airdrop contract created to a single wallet. If you received more than one contract to same/different wallet from Bonk, you will not be able to use the same Twitter/Discord to withdraw that second contract. These were the rules that were provided by the Bonk team. If you run into issues here, please try to remove the cookie in your broswer and reconnect the original wallet and socials.&#x20;
+* 1 user (user = Twitter and Discord account) can withdraw Bonk tokens from 1 airdrop contract created to a single wallet. If you received more than one contract to same/different wallet from Bonk, you will not be able to use the same Twitter/Discord to withdraw that second contract. These were the rules that were provided by the Bonk team. If you run into issues here, please try to remove the cookie in your browser and reconnect the original wallet and socials.&#x20;
 * Please make sure to clear cache and cookies on your browser after switching between for example Twitter accounts.&#x20;
 * Make sure you have at least 0.1 BONK in your wallet from which you are trying to make a withdrawal. If you have revoked your token account for BONK, you will not be able to withdraw. Sending BONK to the wallet will create a new token account.&#x20;
 * If using Phantom and you see caution message, click on "ignore warning" and proceed.
