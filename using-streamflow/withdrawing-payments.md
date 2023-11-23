@@ -6,7 +6,9 @@ description: How recipients can withdraw unlocked funds from a vesting or paymen
 
 #### Manual claim tokens to your wallet
 
-The recipient can easily withdraw their unlocked tokens from a vesting or payment contract into their wallet.&#x20;
+The recipient can easily withdraw their unlocked tokens from a vesting or payment contract into their wallet.
+
+**Note:** Once the contract has completed, all remaining tokens will be claimed to the recipients wallet. &#x20;
 
 **Step 1:** Visit the Streamflow app and select either **"Vesting"** or **"Payments"** &#x20;
 
