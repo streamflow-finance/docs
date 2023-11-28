@@ -4,14 +4,7 @@ description: Breakdown of our fee structure
 
 # Costs of using Streamflow
 
-**Service fees:** Streamflow charges service fees that vary by network. This fee is presently taken as the contract unlocks which aligns our incentives alongside the creator of the contract (subject to change). See the fees according to network below:
-
-* Solana: 0.25%&#x20;
-* Sui: 0.99%&#x20;
-* Aptos: 0.99%
-* BNB: 0.99%
-* Ethereum: 0.99%
-* Polygon: 0.99%
+**Service fees:** Streamflow charges a default service fee of 0.99%. This fee is presently taken as the contract unlocks which aligns our incentives alongside the creator of the contract.
 
 **Network fees:** In addition to the Streamflow fees, standard network gas fees apply to transaction for creating or interacting with contracts.&#x20;
 

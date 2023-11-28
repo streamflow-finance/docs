@@ -45,7 +45,7 @@ Book a call through Calendly for a consultation: [Streamflow Calendly](https://c
 
 #### **Does Streamflow charge any fees for its products?** <a href="#does-streamflow-charge-any-fees-for-its-products" id="does-streamflow-charge-any-fees-for-its-products"></a>
 
-Yes. The Streamflow app has a service fee. This **service fee** is network dependent and is either 0.25% or 0.99%. In addition to the Streamflow service fee, each Blockchain network that we operate on charges their network fee as well. You can look into the detailed fee structure here: [Fees](https://app.gitbook.com/o/lKQAeTah0SdBXZQDX3ZD/s/2rgfcCgbCvIEZ5qAaV44/\~/diff/\~/revisions/yNUpReQeKmqZ3yYWncGz/help/fees). This service fee applies to vesting contracts, payment contracts and token locks. ​
+Yes. The Streamflow app has a service fee. This **service fee** is 0.99%. In addition to the Streamflow service fee, each Blockchain network that we operate on charges their network fee as well. You can look into the detailed fee structure here: [Fees](https://app.gitbook.com/o/lKQAeTah0SdBXZQDX3ZD/s/2rgfcCgbCvIEZ5qAaV44/\~/diff/\~/revisions/yNUpReQeKmqZ3yYWncGz/help/fees). This service fee applies to vesting contracts, payment contracts and token locks. ​
 
 #### Does Streamflow have SDK for integrations? <a href="#does-streamflow-have-sdk-for-integrations" id="does-streamflow-have-sdk-for-integrations"></a>
 
