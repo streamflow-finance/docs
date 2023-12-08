@@ -36,16 +36,13 @@ After setting the amount to max, just click on withdraw and approve the transact
 
 <figure><img src="../.gitbook/assets/Screenshot (196).png" alt=""><figcaption></figcaption></figure>
 
-Your token will be withdrawn to your wallet as soon as transaction is confirmed.\
+Your token will be withdrawn to your wallet as soon as the transaction is confirmed.\
 \
 **Additional guidelines to avoid potential errors:**
 
-* 1 user (user = Twitter and Discord account) can withdraw Bonk tokens from 1 airdrop contract created to a single wallet. If you received more than one contract to the same/different wallet from Bonk, you will not be able to use the same Twitter/Discord to withdraw that second contract. These were the rules that were provided by the Bonk team. If you run into issues here, please try to remove the cookie in your browser and reconnect the original wallet and socials.&#x20;
-* Please make sure to clear cache and cookies on your browser after switching between for example Twitter accounts.&#x20;
-* Make sure you have at least 0.1 BONK in your wallet from which you are trying to make a withdrawal. If you have revoked your token account for BONK, you will not be able to withdraw. Sending BONK to the wallet will create a new token account.&#x20;
-* If using Phantom and you see a caution message, click on "ignore warning" and proceed.
-* In case you are on the list of recipients but do not see an airdrop in Streamflow when you connect your wallet - please check with the Bonk team.&#x20;
-
-
-
-\
+* When connecting your Twitter account, we've noticed that the Twitter API gives you about 15-30 seconds to confirm otherwise it will error. So just a tip to use fast internet and confirm immediately.
+* 1 user (user = Twitter & discord account) can withdraw a Bonk token for 1 contract created to a single wallet. If you received more than one contract to the same/different wallet from Bonk, you will not be able to use the same Twitter/discord to withdraw that second contract sent to that different/same wallet address
+* If you try to create new Twitter/discord accounts to withdraw Bonk tokens for that second received the contract to same/different wallet address, that Twitter accounts needs to be created before May 2023 (when airdrop happened), otherwise, the withdrawal will not work
+* If you are constantly switching between Twitter/Discord, caching issues may occur and withdrawal might fail. Please make sure to clear the cache and cookies on your browser after every switching between Twitter accounts. [https://help.codehs.com/en/articles/4951972-how-to-clear-your-browser-cache-and-hard-refresh](https://help.codehs.com/en/articles/4951972-how-to-clear-your-browser-cache-and-hard-refresh)
+* If you do not find any contract on the vesting tab, that means no stream was created for your wallet by the BONK team, so you can reach out to them
+* If using Phantom and see a caution message, click on ignore the warning and proceed anyway.
