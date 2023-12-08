@@ -8,7 +8,7 @@ description: Guide, tips, and tricks for claiming your Bonk airdrop.
 Step-by-step guide on claiming BONK tokens from the Streamflow app
 {% endembed %}
 
-Before you start the process, make sure to have at least 0.1 BONK tokens on your wallet and enough SOL to cover gas fees\
+Note: Before you start the process, make sure to have at least 0.1 BONK tokens in your wallet and enough SOL to cover gas fees, we have also listed additional guidelines at the bottom of this page to avoid potential errors\
 \
 **Step 1:** Connect the wallet to [https://app.streamflow.finance/](https://app.streamflow.finance/)\
 \
