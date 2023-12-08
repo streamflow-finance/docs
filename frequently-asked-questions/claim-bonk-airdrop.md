@@ -41,6 +41,10 @@ Your token will be withdrawn to your wallet as soon as the transaction is confir
 **Additional guidelines to avoid potential errors:**
 
 * When connecting your Twitter account, we've noticed that the Twitter API gives you about 15-30 seconds to confirm otherwise it will error. So just a tip to use fast internet and confirm immediately.
+* Make sure to allow cookies on Streamflow
+
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+
 * 1 user (user = Twitter & discord account) can withdraw a Bonk token for 1 contract created to a single wallet. If you received more than one contract to the same/different wallet from Bonk, you will not be able to use the same Twitter/discord to withdraw that second contract sent to that different/same wallet address
 * If you try to create new Twitter/discord accounts to withdraw Bonk tokens for that second received the contract to same/different wallet address, that Twitter accounts needs to be created before May 2023 (when airdrop happened), otherwise, the withdrawal will not work
 * If you are constantly switching between Twitter/Discord, caching issues may occur and withdrawal might fail. Please make sure to clear the cache and cookies on your browser after every switching between Twitter accounts. [https://help.codehs.com/en/articles/4951972-how-to-clear-your-browser-cache-and-hard-refresh](https://help.codehs.com/en/articles/4951972-how-to-clear-your-browser-cache-and-hard-refresh)
