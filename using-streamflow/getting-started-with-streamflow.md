@@ -8,7 +8,7 @@ description: Getting started with Streamflow
 
 As part of our ongoing commitment to ensure both the security and functionality of your experience on Streamflow, we'd like to clarify why a signature request is required in addition to connecting your wallet.
 
-_**The Role of Wallet Connection**_
+**The Role of Wallet Connection**
 
 Connecting your wallet to Streamflow is the first step in verifying your identity and accessing our services. It's like using a key to open a door — it gets you into the system. However, this step alone doesn't provide ongoing verification of your actions or intentions within the platform.
 
