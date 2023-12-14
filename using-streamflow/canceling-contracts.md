@@ -18,16 +18,14 @@ To cancel a contract, follow the steps below.
 
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
-**Step 2:** Here you will see your contract/s. Click **"View"**.
+**Step 2:** Here you will see your contract/s. Click on three action buttons (...) to see the cancel option
 
-<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/camcel 1.png" alt=""><figcaption><p>Click on action buttons</p></figcaption></figure>
 
-**Step 3:** Once in the contract details page, you'll see you're available actions at the top right of the page. Click **"Cancel"**.
+<figure><img src="../.gitbook/assets/Cancel 2.png" alt=""><figcaption><p>Click on cancel</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
-
-**Step 4:** Confirm that **cancelling will return locked tokens back to the sender**&#x20;
+**Step 3:** Confirm that **cancelling will return locked tokens back to the sender**&#x20;
 
 <figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
-**Step 5:** Here in the contract details page you can confirm that the contract has indeed been **cancelled!** :tada:
+**Step 4:** Here in the contract details page you can confirm that the contract has indeed been **cancelled!** :tada:
