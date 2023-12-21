@@ -8,7 +8,7 @@ description: Guide, tips, and tricks for claiming your Bonk airdrop.
 Step-by-step guide on claiming BONK tokens from the Streamflow app
 {% endembed %}
 
-Note: Before you start the process, make sure to have at least 0.1 BONK tokens in your wallet and enough SOL to cover gas fees, we have also listed additional guidelines at the bottom of this page to avoid potential errors\
+Note: Before you start the process, make sure to have at least 0.1 BONK tokens in your wallet and enough SOL to cover gas fees, we have also listed additional guidelines at the bottom of this page to avoid potential errors, we highly recommend checking guidelines in description\
 \
 **Step 1:** Connect the wallet to [https://app.streamflow.finance/](https://app.streamflow.finance/)\
 \
@@ -20,7 +20,9 @@ Note: Before you start the process, make sure to have at least 0.1 BONK tokens i
 
 <figure><img src="../.gitbook/assets/Screenshot (190).png" alt=""><figcaption></figcaption></figure>
 
-**Step 4:** Once you click on the withdraw option, you will be asked to check the box for legal compliance and connect your Discord and Twitter accounts, please note that your Twitter account must be older than May 2023 as per the criteria set by the BONK team. Your internet connection needs to be fast enough to connect and verify Twitter in less than 30 seconds to avoid authentication issue
+**Step 4:** Once you click on the withdraw option, you will be asked to check the box for legal compliance and connect your Discord and Twitter accounts, please note that your Twitter account must be older than May 2023 as per the criteria set by the BONK team. Your internet connection needs to be fast enough to connect and verify Twitter in less than 30 seconds to avoid authentication issue\
+\
+You Twitter account must be a public account with a #bonk tweet in last 7 days
 
 <figure><img src="../.gitbook/assets/Screenshot (192).png" alt=""><figcaption><p>Connecting Discord and Twitter</p></figcaption></figure>
 
@@ -40,7 +42,8 @@ Your token will be withdrawn to your wallet as soon as the transaction is confir
 \
 **Additional guidelines to avoid potential errors:**
 
-* When connecting your Twitter account, we've noticed that the Twitter API gives you about 15-30 seconds to confirm otherwise it will error. So just a tip to use fast internet and confirm immediately.
+* When connecting your Twitter account, we've noticed that the Twitter API gives you about 15-30 seconds to confirm otherwise it will error. So just a tip to use fast internet and confirm immediately
+* You Twitter account must be a public account with a #bonk tweet in last 7 days
 * Make sure to allow cookies on Streamflow
 
 <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
