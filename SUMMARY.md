@@ -12,11 +12,11 @@
 ## GETTING STARTED
 
 * [Create a Vesting Contract](getting-started/token-vesting.md)
+* [Getting started with Streamflow](getting-started/getting-started-with-streamflow.md)
+* [Getting started with Streamflow (transactions)](getting-started/getting-started-with-streamflow-transactions.md)
 
 ## Using StreamFlow
 
-* [Getting started with Streamflow](using-streamflow/getting-started-with-streamflow.md)
-* [Getting started with Streamflow (transactions)](using-streamflow/getting-started-with-streamflow-transactions.md)
 * [Create a Token Lock](using-streamflow/create-a-token-lock/README.md)
   * [How to lock LPs with Streamflow?](using-streamflow/create-a-token-lock/how-to-lock-lps-with-streamflow.md)
   * [Token Lock FAQ](using-streamflow/create-a-token-lock/token-lock-faq.md)
