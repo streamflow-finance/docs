@@ -8,7 +8,11 @@ description: Breakdown of our fee structure
 \
 Note: Reach out to us for a custom fee offer, we recommend booking a call with us [Book a call](https://calendly.com/streamflow-bd/token-vesting)
 
-**Network fees:** In addition to the Streamflow fees, standard network gas fees apply to transactions for creating or interacting with contracts.
+**Network fees:** In addition to the Streamflow fees, standard network gas fees apply to transactions for creating or interacting with contracts.\
+\
+The gas fee required for creating contracts on **Ethereum**, **BNB Chain**, **Polygon**, **Sui** and **Aptos** is same as for making a swap on the given network.\
+\
+The blockchain fees per contract on **Solana** are approximately **0.01469256 SOL,** complete breakdown for Solana network fess per contract is given at the bottom
 
 #### Streamflow transactions <a href="#streamflow-transactions" id="streamflow-transactions"></a>
 
@@ -27,10 +31,6 @@ Note: Reach out to us for a custom fee offer, we recommend booking a call with u
     * Note: If the new recipient doesn't have a token account for the token that is transferred, the associated token account creation fee will be charged.
 * **Cancel**
   * The network fee is charged on transaction for canceling the contract
-
-The gas fee required for creating contracts on Ethereum, BNB Chain, Polygon, Sui and Aptos is same as for making a swap on the given network.
-
-**Fee information specific to Solana**
 
 For Solana, the complete breakdown for network fees is given below:
 
