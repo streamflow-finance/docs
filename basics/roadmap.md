@@ -24,10 +24,9 @@ We help investors track and manage their (vested) token portfolio easily across 
 * Sui support :white\_check\_mark:
 * Token Lock :white\_check\_mark:
 * Public dashboard :white\_check\_mark:
-* Draft contracts :calendar\_spiral:
+* Draft contracts :white\_check\_mark:
 * Revamped pricing :calendar\_spiral:
-* Mint tokens :calendar\_spiral:
-* Staking as a service :calendar\_spiral:
 * Airdrops :calendar\_spiral:
-* Non-linear vesting types :calendar\_spiral:
-* Streamflow secondary markets :calendar\_spiral:
+* Staking as a service :calendar\_spiral:
+* Token Extensions Support :calendar\_spiral:
+* Mint tokens :calendar\_spiral:

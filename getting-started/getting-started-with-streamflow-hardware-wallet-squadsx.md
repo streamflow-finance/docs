@@ -1,6 +1,6 @@
-# Getting started with Streamflow (ledger)
+# Getting started with Streamflow (Hardware Wallet / SquadsX)
 
-As you embark on your journey with Streamflow, we want to ensure that you have a clear understanding of our security processes, specifically tailored for our Ledger users. Due to the current limitations in Ledger support for Solana, our procedure is slightly different for you.
+As you embark on your journey with Streamflow, we want to ensure that you have a clear understanding of our security processes, specifically tailored for our Ledger and SquadsX users. Due to the current limitations in Ledger support for Solana, our procedure is slightly different for you.
 
 **Why a Transaction Request Instead of a Signature?**
 

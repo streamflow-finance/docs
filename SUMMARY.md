@@ -13,7 +13,7 @@
 
 * [Create a Vesting Contract](getting-started/token-vesting.md)
 * [Getting started with Streamflow](getting-started/getting-started-with-streamflow.md)
-* [Getting started with Streamflow (transactions)](getting-started/getting-started-with-streamflow-transactions.md)
+* [Getting started with Streamflow (Hardware Wallet / SquadsX)](getting-started/getting-started-with-streamflow-hardware-wallet-squadsx.md)
 
 ## Using StreamFlow
 

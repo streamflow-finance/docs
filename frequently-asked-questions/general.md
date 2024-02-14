@@ -8,12 +8,12 @@ description: Frequently asked questions
 
 Streamflow supports:&#x20;
 
-1. Ethereum L1
-2. Sui
-3. Solana&#x20;
-4. BNB Chain
-5. Polygon
-6. Aptos
+* Solana&#x20;
+* Sui
+* Ethereum
+* BNB Chain
+* Polygon
+* Aptos
 
 for Token Vesting, Payments and Token Locks.
 

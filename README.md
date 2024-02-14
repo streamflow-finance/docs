@@ -14,7 +14,7 @@ coverY: 0
 * Payroll
 * Token locks&#x20;
 
-Streamflow is trusted and used by over 50 teams across all supported chains including: UXD, Hubble, Ratio, Heavenland, Honeyland, Genopets, Bonk, Rain, GRAPE and many more.&#x20;
+Streamflow is trusted and used by over 50 teams across all supported chains including: Solend, Bonk, Blaze, UXD, Whales Markets, Gecko, SynesisOne, Hubble, Heavenland, Honeyland, Genopets, Rain, GRAPE, FUD,  and many more.&#x20;
 
 **Streamflow Protocol**
 
@@ -23,11 +23,11 @@ Streamflow also maintains an [SDK](broken-reference) that allows teams to integr
 Streamflow aims to provide a diverse range of projects with access to payment infrastructure and is available for use on the following blockchains:
 
 * Solana
+* Sui
+* Aptos&#x20;
 * Ethereum
 * Polygon
-* Aptos&#x20;
 * BNB Chain
-* Sui
 
 <figure><img src=".gitbook/assets/Blurb.png" alt=""><figcaption></figcaption></figure>
 
