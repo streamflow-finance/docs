@@ -4,7 +4,7 @@ description: Breakdown of our fee structure
 
 # Costs of using Streamflow
 
-**Service fees:** Streamflow charges a default service fee of 0.99%. This fee is presently taken as the contract unlocks which aligns our incentives alongside the creator of the contract.\
+**Service fees:** Streamflow charges a default service fee of 0.49%. This fee is presently taken as the contract unlocks which aligns our incentives alongside the creator of the contract.\
 \
 Note: Reach out to us for a custom fee offer, we recommend booking a call with us [Book a call](https://calendly.com/streamflow-bd/token-vesting)
 
@@ -36,7 +36,7 @@ For Solana, the complete breakdown for network fees is given below:
 
 | Name                               | Explanation                                                                                                                                                        | Fee                                                     | Origin     |
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------- | ---------- |
-| Contract                           | Service fee. **Fully respects the specific vesting/unlocking schedule and is released gradually.**                                                                 | 0.99% on top of the amount that is scheduled for unlock | Streamflow |
+| Contract                           | Service fee. **Fully respects the specific vesting/unlocking schedule and is released gradually.**                                                                 | 0.49% on top of the amount that is scheduled for unlock | Streamflow |
 | Associated token account creation  | If the recipient doesn't have an account for the token that's being progressively unlocked, an associated token account will be created and rent\*\* will be paid. | 0.00407856 SOL                                          | Solana     |
 | Contract metadata account creation | Account for storing contract parameters/metadata is created on chain and the rent\* is paid. (1104 bytes)                                                          | 0.00857472 SOL                                          | Solana     |
 | Escrow token account creation      | Escrow\*\*\* token account is created upon contract creation and rent\* is paid.                                                                                   | 0.00203928 SOL                                          | Solana     |
