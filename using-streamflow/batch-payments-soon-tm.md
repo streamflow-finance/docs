@@ -4,9 +4,7 @@ description: Add multiple recipients via CSV upload
 
 # Batch Contracts with CSV
 
-You can create contracts in bulk using Streamflow, it's incorporated into the main flow for token vesting and payment contracts either by manually adding additional recipients or by **CSV upload**. In this walkthrough we'll show how you can create up to **30 contracts at once using a simple CSV**.&#x20;
-
-wn menu
+You can create contracts in bulk using Streamflow, it's incorporated into the main flow for token vesting and payment contracts either by manually adding additional recipients or by **CSV upload**. In this walkthrough we'll show how you can create up to between 60-300 **contracts at once using a simple CSV (wallet dependent)**.
 
 
 

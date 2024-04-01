@@ -57,7 +57,7 @@ Lastly, you can select who can **cancel** the contract as well as who can **tran
 
 **Recipient Email Address:** This is the email address where notifications about the contract will be sent including: contract start and each unlock.&#x20;
 
-To add **multiple recipients**, click "+ Add Recipient" and then you can add the details the same way as the first recipient. We currently have a limit of up to 30 recipients in one creation request. Note that each vesting contract will be visible seperately after they are created.&#x20;
+To add **multiple recipients**, click "+ Add Recipient" and then you can add the details the same way as the first recipient. We currently have a limit of up to 60-300 recipients (wallet dependent)  in one creation request. Note that each vesting contract will be visible separately after they are created.&#x20;
 
 <figure><img src="../.gitbook/assets/image (14).png" alt="" width="375"><figcaption></figcaption></figure>
 

@@ -75,3 +75,15 @@ Not currently.&#x20;
 **Would my assets be affected if the Streamflow UI became unavailable?**
 
 No. All assets on Streamflow are stored on chain and in the highly unlikely event that Streamflow ceases to operate, contracts created with Streamflow remain secure and can only be accessed by the users involved in the contract (recipient, sender). This access would be through the existing SDK.
+
+**How many contracts can I create in one go using CSV?**&#x20;
+
+The amount depends currently on which wallet you are using to create the contracts.&#x20;
+
+Current limits per wallet are:
+
+Backpack: 60
+
+Phantom: 190
+
+Solflare: 300
