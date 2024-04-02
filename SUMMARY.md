@@ -4,6 +4,7 @@
 
 * [Welcome to Streamflow](README.md)
 * [Token Vesting](basics/token-vesting.md)
+* [Airdrops](basics/airdrops.md)
 * [Payments](basics/stream-payments.md)
 * [Token Lock](basics/token-lock.md)
 * [Roadmap](basics/roadmap.md)
@@ -20,6 +21,7 @@
 * [Create a Token Lock](using-streamflow/create-a-token-lock/README.md)
   * [How to lock LPs with Streamflow?](using-streamflow/create-a-token-lock/how-to-lock-lps-with-streamflow.md)
   * [Token Lock FAQ](using-streamflow/create-a-token-lock/token-lock-faq.md)
+* [Create an Airdrop](using-streamflow/create-an-airdrop.md)
 * [Create a Payment Contract](using-streamflow/payment-contract.md)
 * [Claiming unlocked tokens](using-streamflow/withdrawing-payments.md)
 * [Transfer Contract](using-streamflow/transfering-contracts.md)

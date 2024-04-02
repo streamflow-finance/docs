@@ -36,6 +36,6 @@ With **Auto-Claim** you can automate the need for the recipient to claim their t
 
 &#x20; &#x20;
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 _Please note:_ If the recipient's wallet address belongs to a centralized exchange, it is mandatory to activate Auto-Claim.&#x20;

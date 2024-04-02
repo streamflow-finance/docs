@@ -65,7 +65,7 @@ To add **multiple recipients**, click "+ Add Recipient" and then you can add the
 
 Next you'll land on the review page, where you can check the graph to confirm it matches your configuration expectations.
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 Below you'll find some key details around the contract including:
 
@@ -73,11 +73,11 @@ Below you'll find some key details around the contract including:
 2. Total amount of tokens to be deployed to the contracts
 3. Streamflow fees&#x20;
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Below the high level information you can find all the configuration information about the contract you've created as well as our fees once more.&#x20;
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 6: Create the contract**
 
