@@ -10,8 +10,6 @@ Select "Airdrop" from the left nav menu.
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-{% file src="../.gitbook/assets/Area (1).mp4" %}
-
 Step 2: **Choose Type of Airdrop**
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
