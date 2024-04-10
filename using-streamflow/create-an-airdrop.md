@@ -10,7 +10,7 @@ Select "Airdrop" from the left nav menu.
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-Step 2: **Choose Type of Airdrop**
+#### Step 2: Choose Type of Airdrop
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -28,7 +28,7 @@ For this tutorial, we'll create an **instant airdrop**.&#x20;
 
 We allow you to upload as many CSVs as you like (below 30k total recipients) and/or easily choose quick collections to airdrop to.&#x20;
 
-#### Step 4: Upload a CSV or choose quick collections
+#### Step 4: Configure your airdrop 
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
@@ -36,13 +36,13 @@ Configure your airdrop by naming it, scheduling when it should take place and el
 
 We've selected MadLads for the drop and we'll be dropping some $BONK to each unique MadLad holder.&#x20;
 
-**Step 5: Review**
+#### Step 5: Review
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 See a handy overview of the airdrop campaign you have configured.&#x20;
 
-**Step 5: Create**
+#### Step 6: Create
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
