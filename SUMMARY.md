@@ -12,17 +12,17 @@
 
 ## GETTING STARTED
 
-* [Create a Vesting Contract](getting-started/token-vesting.md)
 * [Getting started with Streamflow](getting-started/getting-started-with-streamflow.md)
 * [Getting started with Streamflow (Hardware Wallet / SquadsX)](getting-started/getting-started-with-streamflow-hardware-wallet-squadsx.md)
 
 ## Using StreamFlow
 
+* [Create an Airdrop](using-streamflow/create-an-airdrop.md)
+* [Create a Vesting Contract](using-streamflow/token-vesting.md)
+* [Create a Payment Contract](using-streamflow/payment-contract.md)
 * [Create a Token Lock](using-streamflow/create-a-token-lock/README.md)
   * [How to lock LPs with Streamflow?](using-streamflow/create-a-token-lock/how-to-lock-lps-with-streamflow.md)
   * [Token Lock FAQ](using-streamflow/create-a-token-lock/token-lock-faq.md)
-* [Create an Airdrop](using-streamflow/create-an-airdrop.md)
-* [Create a Payment Contract](using-streamflow/payment-contract.md)
 * [Claiming unlocked tokens](using-streamflow/withdrawing-payments.md)
 * [Transfer Contract](using-streamflow/transfering-contracts.md)
 * [Cancel Contract](using-streamflow/canceling-contracts.md)

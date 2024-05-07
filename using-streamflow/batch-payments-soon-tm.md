@@ -16,7 +16,7 @@ You can create contracts in bulk using Streamflow, it's incorporated into the ma
 
 <figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
-**Step 3:** Fill the contract out as shown in ["Create a Vesting Contract" ](../getting-started/token-vesting.md)and once you reach the second step in the creation flow you'll see **"Upload CSV"**
+**Step 3:** Fill the contract out as shown in ["Create a Vesting Contract" ](token-vesting.md)and once you reach the second step in the creation flow you'll see **"Upload CSV"**
 
 <figure><img src="../.gitbook/assets/image (44).png" alt="" width="541"><figcaption></figcaption></figure>
 
