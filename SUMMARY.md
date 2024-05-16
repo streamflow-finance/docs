@@ -43,5 +43,6 @@
 * [Overview](developer-tools/overview/README.md)
   * [Javascript SDK](developer-tools/overview/javascript-sdk.md)
   * [Rust SDK](developer-tools/overview/rust-sdk.md)
+  * [Distributor SDK](developer-tools/overview/distributor-sdk.md)
 * [Grant Program](developer-tools/grant-program.md)
 * [Chain Addresses](developer-tools/chain-addresses.md)

@@ -16,6 +16,9 @@ or
 
 ***
 
+## Documentation
+API Documentation available here: [docs site →](https://streamflow-finance.github.io/js-sdk/)
+
 ## Import SDK
 
 Most common imports:

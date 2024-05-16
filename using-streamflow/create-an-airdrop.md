@@ -49,3 +49,15 @@ See a handy overview of the airdrop campaign you have configured.&#x20;
 The standard Streamflow fee for creating an Airdrop is 0.19%. Streamflow is added as an additional recipient to the airdrop and recieves the payment alongside the rest of the recipients.&#x20;
 
 For standard users we support up to 30k recipients per airdrop. For enterprise customers we can support up to 1 million recipients per airdrop.&#x20;
+
+
+# After creation
+
+Customize recipient experiences effortlessly by integrating with our provided approaches. Whether it's through our versatile JavaScript SDK or our easily customizable widget for streamlined airdrop claims.
+
+- [Widgets](https://widgets.streamflow.finance)
+- [JS SDK](../developer-tools/overview/distributor-sdk.md)
+
+Explore our documentation below to unlock the full potential of Streamflow Airdrop and revolutionize your platform's user engagement strategies! 
+
+Delve deeper into [our resources→](../developer-tools/overview/distributor-sdk.md) to discover everything you need to know about integrating and optimizing the airdrop feature for your unique platform.
