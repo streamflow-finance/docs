@@ -23,6 +23,7 @@
 * [Create a Token Lock](using-streamflow/create-a-token-lock/README.md)
   * [How to lock LPs with Streamflow?](using-streamflow/create-a-token-lock/how-to-lock-lps-with-streamflow.md)
   * [Token Lock FAQ](using-streamflow/create-a-token-lock/token-lock-faq.md)
+* [Streamflow x Squads Multisig](using-streamflow/streamflow-x-squads-multisig.md)
 * [Claiming unlocked tokens](using-streamflow/withdrawing-payments.md)
 * [Claiming airdrop allocation](using-streamflow/claiming-airdrop-allocation.md)
 * [Transfer Contract](using-streamflow/transfering-contracts.md)
