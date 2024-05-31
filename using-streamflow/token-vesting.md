@@ -4,12 +4,9 @@ description: A complete guide on creating vesting contracts on the Streamflow ap
 
 # Create a Vesting Contract
 
-{% embed url="https://www.loom.com/share/614e86c2919b440f8b5f77e987643abb?sid=c8e4c13a-5111-436f-913e-ee0dfa78c751" %}
-Streamflow token vesting
+{% embed url="https://youtu.be/q7WhkuR7kVI" %}
+Step-by-step tutorial
 {% endembed %}
-
-\
-Let’s go through a step-by-step process of creating token vesting contracts using Streamflow.
 
 #### Step 1: Connect the wallet
 
