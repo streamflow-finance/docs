@@ -4,7 +4,9 @@ description: How to cancel vesting contracts and payment contracts
 
 # Cancel Contract
 
-When the sender is creating the vesting or payment contract, they can optionally configure permission for either the **sender** or **recipient** to cancel the contract.&#x20;
+{% embed url="https://youtu.be/g1Q_M9ZOVwQ" %}
+
+When the sender is creating a vesting or payment contract, they can optionally configure permission for either the **sender** or **recipient** to cancel the contract.&#x20;
 
 <figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
