@@ -4,6 +4,10 @@ description: Tutorial on how to create Token Lock contracts using Streamflow
 
 # Create a Token Lock
 
+#### Video guide on locking tokens
+
+{% embed url="https://youtu.be/M2_53hXoq3I" %}
+
 #### Create Token Lock
 
 **Step 1:** Connect your wallet to Streamflow
