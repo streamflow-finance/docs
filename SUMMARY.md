@@ -24,6 +24,7 @@
   * [How to lock LPs with Streamflow?](using-streamflow/create-a-token-lock/how-to-lock-lps-with-streamflow.md)
   * [Token Lock FAQ](using-streamflow/create-a-token-lock/token-lock-faq.md)
 * [Claiming unlocked tokens](using-streamflow/withdrawing-payments.md)
+* [Claiming airdrop allocation](using-streamflow/claiming-airdrop-allocation.md)
 * [Transfer Contract](using-streamflow/transfering-contracts.md)
 * [Cancel Contract](using-streamflow/canceling-contracts.md)
 * [Top up Payment Contract](using-streamflow/top-up-contracts-stream-payment-functionality.md)
