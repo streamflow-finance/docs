@@ -4,6 +4,10 @@ description: How to transfer vesting contracts and payment contracts
 
 # Transfer Contract
 
+{% embed url="https://youtu.be/h9TbofT2ATA" %}
+Step-by-step video
+{% endembed %}
+
 When the sender is creating the vesting or payment contract, they can optionally configure permission for the recipient to update the recipient address that all scheduled tokens will unlock to.&#x20;
 
 <figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
