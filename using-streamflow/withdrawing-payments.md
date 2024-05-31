@@ -4,6 +4,10 @@ description: How recipients can withdraw unlocked funds from a vesting or paymen
 
 # Claiming unlocked tokens
 
+#### Video Guide&#x20;
+
+{% embed url="https://youtu.be/hDO0kAV4_PA" %}
+
 #### Manual claim tokens to your wallet
 
 The recipient can easily withdraw their unlocked tokens from a vesting or payment contract into their wallet.
