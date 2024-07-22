@@ -1,5 +1,5 @@
 ---
-description: Guide, tips, and tricks for claiming your Bonk allocation.
+description: Guide, tips, and tricks for claiming your Bonk allocation
 ---
 
 # Claiming Bonk allocation
