@@ -16,22 +16,18 @@ To top up a contract, follow the steps below.
 
 **Step 1:** Visit the Streamflow app and select **"Payments"** &#x20;
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-11 142239.png" alt=""><figcaption></figcaption></figure>
 
-**Step 2:** Here you will see your contract/s.&#x20;
+**Step 2:** Here you will see your contract/s. Click the **"..."** and select **"Top Up"** from the dropdown menu
 
-<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-09 122922 (1).png" alt=""><figcaption></figcaption></figure>
 
-**Step 3:** Click the **"..."** and select **"Top Up"** from the dropdown menu
+**Step 3:** Input the amount that you would like to top up and click **"Top Up"**
 
-<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
-
-**Step 4:** Input the amount that you would like to top up and click **"Top Up"**
-
-<figure><img src="../.gitbook/assets/image (39).png" alt="" width="501"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-09 122415.png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Step 5:** Once the transaction **confirms**, the contract will be extended. To confirm this you can head to the **"contract details"** page and check the end date.&#x20;
 
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-09 111019 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-09 123054.png" alt=""><figcaption></figcaption></figure>

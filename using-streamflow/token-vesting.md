@@ -14,12 +14,12 @@ Firstly, you need to visit the Streamflow app via the following URL:
 
 👉 [app.streamflow.finance](https://bit.ly/3igHaDj)
 
-Next, you will have to connect the wallet to start using the app. We support a variety of wallets on Ethereum L1, BNB Chain, Polygon, Solana, Aptos and Sui network.
+Next, you will have to connect the wallet to start using the app. We support a variety of wallets on Solana, Ethereum L1, BNB Chain, Polygon, Aptos and Sui network.
 
 \
 **Step 2:** **Configure token, vesting duration and unlock schedule**
 
-<figure><img src="../.gitbook/assets/image (11).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-17 205119.png" alt=""><figcaption></figcaption></figure>
 
 Select the **"Token"** of your choice that you want to vest from the drop-down list of the tokens available in your wallet. You will also be able to see the token balance.
 
@@ -27,9 +27,9 @@ Next, you need to select the **"Vesting Duration"**, this is the total time of y
 
 **"Unlock Schedule"** comes next and that can be understood as how often the tokens will unlock to the recipient. A brief example, if you configure a Vesting Duration of 1 year with a monthly Unlock Schedule - the recipient will receive tokens once per month.&#x20;
 
-**Step 3:** **Cliff time release and cancel/transfer permissionn**
+**Step 3:** **Cliff time release and cancel/transfer permission**
 
-<figure><img src="../.gitbook/assets/image (12).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-11 131319.png" alt="" width="438"><figcaption></figcaption></figure>
 
 Next up, you'll configure when the contract will begin to vest the tokens. You have the option of scheduling the contract to start at a future date and time or alternatively starting the contract immediately upon creation.&#x20;
 
@@ -44,7 +44,7 @@ Lastly, you can select who can **cancel** the contract as well as who can **tran
 \
 **Step 4: Adding recipient(s) with vesting amount, address, contract title, and email address**
 
-<figure><img src="../.gitbook/assets/image (13).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-08 180033.png" alt="" width="433"><figcaption></figcaption></figure>
 
 **Amount:** The number of tokens which will be progressively unlocked to the recipient
 
@@ -56,13 +56,15 @@ Lastly, you can select who can **cancel** the contract as well as who can **tran
 
 To add **multiple recipients**, click "+ Add Recipient" and then you can add the details the same way as the first recipient. We currently have a limit of up to 60-300 recipients (wallet dependent)  in one creation request. Note that each vesting contract will be visible separately after they are created.&#x20;
 
-<figure><img src="../.gitbook/assets/image (14).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-08 164313.png" alt="" width="367"><figcaption></figcaption></figure>
 
 **Step 5: Review**
 
 Next you'll land on the review page, where you can check the graph to confirm it matches your configuration expectations.
 
-![](<../.gitbook/assets/image (4) (1).png>)
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-08 173624.png" alt=""><figcaption></figcaption></figure>
 
 Below you'll find some key details around the contract including:
 
@@ -70,17 +72,17 @@ Below you'll find some key details around the contract including:
 2. Total amount of tokens to be deployed to the contracts
 3. Streamflow fees&#x20;
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-08 164418.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Below the high level information you can find all the configuration information about the contract you've created as well as our fees once more.&#x20;
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-11 132815 (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 6: Create the contract**
 
-Finally, click on the 'Create Payment Contract' button and approve the transaction in your wallet - congratulations, you've just created you're first contract on Streamflow.  &#x20;
+Finally, click on the 'Create Contract' button and approve the transaction in your wallet - congratulations, you've just created you're first contract on Streamflow.  &#x20;
 
-<figure><img src="../.gitbook/assets/image (15).png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-08 180136.png" alt=""><figcaption></figcaption></figure>
 
 **Email notifications**
 

@@ -6,7 +6,7 @@ description: Ongoing, recurring payments.
 
 **Programmable payments** on Streamflow are an efficient, easy to use, and secure way of payroll management.
 
-<figure><img src="../.gitbook/assets/image (16).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-08 114306.png" alt="" width="473"><figcaption></figcaption></figure>
 
 The powerful and configurable features of the Streamflow app let you progressively unlock payments to:
 
@@ -23,4 +23,7 @@ Streamflow payment contracts come up with unique and configurable features that 
 
 Ultimately these contracts can save you time and money by making your whole payroll system bankless and paperless, you only need a decentralized wallet account, funds, and the wallet addresses of employees to set up payroll contracts.
 
-Available at [app.streamflow.finance](https://app.streamflow.finance)
+Available at [https://app.streamflow.finance/payments](https://app.streamflow.finance/payments)
+
+Need help setting up payroll? Book a call:\
+[Streamflow: Payroll](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ34JnyOHxifyRPPK3XKGzYWx4e-Wmcxfa2c-KR58eVODpUmyL8ilsFLTCfpuz7qRCYxteQcprC2)

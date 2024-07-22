@@ -6,7 +6,7 @@ description: Breakdown of our fee structure
 
 **Service fees:** Streamflow charges a default service fee of 0.19%. This fee is presently taken as the contract unlocks which aligns our incentives alongside the creator of the contract.\
 \
-Note: Reach out to us for a custom fee offer, we recommend booking a call with us [Book a call](https://calendly.com/streamflow-bd/token-vesting)
+Note: Reach out to us for a custom fee offer, we recommend booking a call with us: [Book a call](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2b\_lc99DWgZXBj\_TGPGFyKAbIumo2956ImUegFytJSN6IHfwXLj\_xq-hVDVdoriC5v13FJ8W3p)
 
 **Network fees:** In addition to the Streamflow fees, standard network fees apply to transactions for creating or interacting with contracts.
 
@@ -27,5 +27,3 @@ Note: Reach out to us for a custom fee offer, we recommend booking a call with u
     * Note: If the new recipient doesn't have a token account for the token that is transferred, the associated token account creation fee will be charged.
 * **Cancel**
   * The network fee is charged on transaction for canceling the contract
-
-#### &#x20;<a href="#streamflow-transactions" id="streamflow-transactions"></a>

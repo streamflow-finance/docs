@@ -14,11 +14,11 @@ Complete Tutorial on setting up airdrops through Streamflow app
 
 Select "Airdrop" from the left nav menu.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-10 134938.png" alt="" width="234"><figcaption></figcaption></figure>
 
 **Step 2: Choose Type of Airdrop**
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-08 140314.png" alt=""><figcaption></figcaption></figure>
 
 Select either **instant** or **vested**.
 
@@ -30,13 +30,13 @@ For this tutorial, we'll create an **instant airdrop**.
 
 **Step 3: Upload a CSV or choose quick collections**
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-08 140342.png" alt=""><figcaption></figcaption></figure>
 
 We allow you to upload as many CSVs as you like (below 30k total recipients) and/or easily choose quick collections to airdrop to.
 
 **Step 4: Configure your airdrop**
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-10 135655.png" alt=""><figcaption></figcaption></figure>
 
 Configure your airdrop by naming it, scheduling when it should take place and electing if it can be cancelled or not.
 
@@ -44,13 +44,13 @@ We've selected MadLads for the drop and we'll be dropping some $BONK to each uni
 
 **Step 5: Review**
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-10 164745.png" alt="" width="378"><figcaption></figcaption></figure>
 
 See a handy overview of the airdrop campaign you have configured.
 
 **Step 6: Create**
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-10 164851.png" alt=""><figcaption></figcaption></figure>
 
 The standard Streamflow fee for creating an Airdrop is 0.19%. Streamflow is added as an additional recipient to the airdrop and recieves the payment alongside the rest of the recipients.
 

@@ -1,7 +1,21 @@
 ---
 description: Streamflow — Payment Infrastructure for Web3
-cover: .gitbook/assets/gitbook-2800x600@1x.jpg
+cover: .gitbook/assets/isemage.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Welcome to Streamflow
@@ -13,8 +27,10 @@ coverY: 0
 * Token vesting
 * Payroll
 * Token locks&#x20;
+* Airdrops
+* Token Minting
 
-Streamflow is trusted and used by over 50 teams across all supported chains including: Solend, Bonk, Blaze, UXD, Whales Markets, Gecko, SynesisOne, Hubble, Heavenland, Honeyland, Genopets, Rain, GRAPE, FUD,  and many more.&#x20;
+Streamflow is trusted and used by over 50 teams across all supported chains including: Solend, Bonk, Blaze, UXD, Whales Markets, Gecko, SynesisOne, Hubble, Heavenland, Honeyland, Genopets, Rain, GRAPE, FUD, IoNet  and many more.&#x20;
 
 **Streamflow Protocol**
 
@@ -29,7 +45,7 @@ Streamflow aims to provide a diverse range of projects with access to payment in
 * Polygon
 * BNB Chain
 
-<figure><img src=".gitbook/assets/Blurb.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2024-07-10 122315.png" alt=""><figcaption></figcaption></figure>
 
 ### Browse By Product
 

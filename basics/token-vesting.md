@@ -25,7 +25,7 @@ Our fully featured token vesting product includes a number of helpful features:
 
 * **Auto-claim:** Set the unlocked tokens to be automatically dropped into the recipient's wallet, no need for the recipient to claim tokens manually\
 
-* **Batch payments (with CSV Upload):** Create a contract with many recipients, either by manually adding the additional recipients you require or by uploading a CSV with all the recipients and their addresses, our CSV Upload feature takes care of the rest!\
+* **Batch payments (with CSV Upload):** Create a contract with many recipients, either by manually adding the additional recipients you require or by uploading a CSV with all the recipients and their addresses, our CSV upload feature takes care of the rest!\
 
 * **Email notifications:** Notify recipients of vesting contracts at each unlock.\
 
@@ -37,7 +37,7 @@ Our fully featured token vesting product includes a number of helpful features:
 
 For instructions on how to set up vesting contracts using the Streamflow app, see [this guide](https://docs.streamflow.finance/help/tutorials/token-vesting).\
 \
-**Book a call with us for a live demo of the app for your vesting schedule:** [Streamflow Calendly](https://calendly.com/streamflow-bd/token-vesting?month=2023-09\&date=2023-09-29)\
+**Book a call with us for a live demo of the app for your vesting schedule:** [Streamflow: Token Vesting & Airdrops](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2b\_lc99DWgZXBj\_TGPGFyKAbIumo2956ImUegFytJSN6IHfwXLj\_xq-hVDVdoriC5v13FJ8W3p).\
 \
 Visit our app to get started with token vesting:
 

@@ -7,6 +7,8 @@
 * [Airdrops](basics/airdrops.md)
 * [Payments](basics/stream-payments.md)
 * [Token Lock](basics/token-lock.md)
+* ["Streamflow Odyssey" points program](basics/streamflow-odyssey-points-program.md)
+* [Token Minter Tool](basics/token-minter-tool.md)
 * [Roadmap](basics/roadmap.md)
 * [Who are we - Streamflow](basics/team.md)
 
@@ -37,7 +39,7 @@
 
 * [General](frequently-asked-questions/general.md)
 * [Costs of using Streamflow](frequently-asked-questions/costs-of-using-streamflow.md)
-* [Claim Bonk airdrop](frequently-asked-questions/claim-bonk-airdrop.md)
+* [Claiming Bonk allocation](frequently-asked-questions/claim-bonk-airdrop.md)
 * [Restricted Countries and Regions](frequently-asked-questions/restricted-countries-and-regions.md)
 
 ## Developer tools

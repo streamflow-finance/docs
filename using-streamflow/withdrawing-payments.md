@@ -16,23 +16,31 @@ The recipient can easily withdraw their unlocked tokens from a vesting or paymen
 
 **Step 1:** Visit the Streamflow app and select either **"Vesting"** or **"Payments"** &#x20;
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<div>
 
-**Step 2:** Here you will see your contract/s. Click **"View"**.
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-11 142225.png" alt="" width="182"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+ 
 
-**Step 3:** Once in the contract details page, you'll see you're available actions at the top right of the page. Click **"Withdraw"**.
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-11 142239.png" alt="" width="183"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+</div>
 
-**Step 4:** Input the amount that you would like to **withdraw**.
+**Step 2:** Here you will see your contract/s. Click on them to enter the details page.
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-11 143648.png" alt=""><figcaption></figcaption></figure>
+
+**Step 3:** Once in the contract details page, you'll the "Claim Now" button at the top right of the page. Click on it to open the claim modal.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-11 143701.png" alt=""><figcaption></figcaption></figure>
+
+**Step 4:** Input the amount that you would like to **claim**.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-11 143747.png" alt="" width="514"><figcaption></figcaption></figure>
 
 **Step 5:** Confirm the transaction in your wallet and you'll see a confirmation when the transaction has completed.&#x20;
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-09 111013.png" alt=""><figcaption></figcaption></figure>
 
 #### Auto-claim tokens to your wallet
 
@@ -40,6 +48,6 @@ With **Auto-Claim** you can automate the need for the recipient to claim their t
 
 &#x20; &#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-09 111044.png" alt="" width="424"><figcaption></figcaption></figure>
 
 _Please note:_ If the recipient's wallet address belongs to a centralized exchange, it is mandatory to activate Auto-Claim.&#x20;

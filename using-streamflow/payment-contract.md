@@ -4,8 +4,6 @@ description: Tutorial on how to create payment contracts using Streamflow
 
 # Create a Payment Contract
 
-
-
 Progressive unlock payments on Streamflow are an efficient, easy to use, and secure way of payroll management.\
 \
 The powerful and configurable features of the Streamflow app let you unlock payments to employees, freelancers, service providers, and contractors as per your requirements.\
@@ -28,27 +26,27 @@ Now, you can choose any token of your choice for the contract as well as the dur
 
 Next you can choose whether you want to have the contract begin immediately when it's created, or to schedule it for the future.&#x20;
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-08 173032.png" alt=""><figcaption></figcaption></figure>
 
 #### Step 3: Advanced settings
 
 With **Auto-Claim** you can automate the need for the recipient to claim their tokens as they unlock. Instead the unlocked tokens are directly dropped into the recipients wallet. The sender will pay the fees for these transactions.&#x20;
 
-![](<../.gitbook/assets/image (2) (1).png>)  &#x20;
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-08 173122.png" alt="" width="441"><figcaption></figcaption></figure>
 
 Lastly, you can select who can cancel the contract as well as who can transfer and change the recipient address.&#x20;
 
 **Step 4: Recipient and amount**
 
-Next you'll need to input the amount being sent and the recipients wallet address. At this point you can also add a title for the contract to more easily keep tabs on which contract applies to which recipient. Lastly you can add an email address of the recipient, that way the recipient will recieve email notifications around the contract updates.&#x20;
+Next you'll need to input the amount being sent and the recipients wallet address. At this point you can also add a title for the contract to more easily keep tabs on which contract applies to which recipient. Lastly you can add an email address of the recipient, that way the recipient will receive email notifications around the contract updates.&#x20;
 
-&#x20;         ![](<../.gitbook/assets/image (3) (1).png>)
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-08 173529.png" alt="" width="441"><figcaption></figcaption></figure>
 
 #### Step 5: Review
 
 Next you'll land on the review page, where you can check the graph to confirm it matches your configuration expectations.
 
-![](<../.gitbook/assets/image (4) (1).png>)
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-08 173613.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Below you'll find some key details around the contract including:
 
@@ -56,16 +54,18 @@ Below you'll find some key details around the contract including:
 2. Total amount of tokens to be deployed to the contracts
 3. Streamflow fees&#x20;
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-08 173639.png" alt=""><figcaption></figcaption></figure>
 
 Below the high level information you can find all the configuration information about the contract you've created as well as our fees once more.&#x20;
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-08 173700 (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 6: Create the payment contract
 
-Finally, click on the 'Create Payment Contract' button and approve the transaction in your wallet - congratulations, you've just created you're first contract on Streamflow.   \
-![](<../.gitbook/assets/image (10).png>)
+Finally, click on the 'Create Contract' button and approve the transaction in your wallet - congratulations, you've just created you're first contract on Streamflow.   \
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-08 180136.png" alt=""><figcaption></figcaption></figure>
 
 #### Email notifications
 
@@ -74,5 +74,3 @@ If the recipient's email address has been added during the creation of the payro
 Additionally, the recipient will get notified when unlocked funds are transferred into his/her wallet.&#x20;
 
 Please keep in mind that adding the recipient's email address is an optional feature and it can only be added while creating the contract.
-
-####

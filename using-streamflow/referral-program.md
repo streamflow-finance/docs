@@ -10,7 +10,7 @@ When a vesting contract or payment contract is created using your **wallet addre
 
 Note: The exact percentage that the referer earns depends on their referral rate.&#x20;
 
-<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-09 123324.png" alt=""><figcaption></figcaption></figure>
 
 Want to become a referrer and earn attractive referral fees through Streamflow?
 

@@ -1,5 +1,5 @@
 ---
-description: Lock up tokens until a scheduled date - with no progressive release inbetween
+description: Lock up tokens until a scheduled date - with no progressive release in between
 ---
 
 # Token Lock
@@ -8,7 +8,7 @@ Streamflow Token Lock feature is used to lock tokens until a specific date and t
 \
 Projects can also use Token Lock to lock LP tokens and show commitment and transparency for their community who can have confidence that the team will not suddenly pull any funds.&#x20;
 
-<figure><img src="../.gitbook/assets/image (17).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-10 132025.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### What is a Token Lock?
 
@@ -22,4 +22,5 @@ When you list a token on a decentralized exchange (DEX) or deposit an existing t
 
 Locking LP tokens prevents depositors of the liquidity from withdrawing their funds. It guarantees the community that liquidity will remain within the DEX to facilitate swaps, and not be cashed out by developers or project founders (like we’ve recently witnessed with [the launch of $BALD token on Base Network](https://cointelegraph.com/news/bald-token-developer-denies-rug-pull-price-falls-post-launch)). The locked LP tokens can only be withdrawn or changed at the end of the locked period(s).
 
-###
+Available at [https://app.streamflow.finance/token-lock](https://app.streamflow.finance/token-lock)
+

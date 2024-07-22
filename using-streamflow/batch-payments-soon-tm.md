@@ -13,25 +13,34 @@ You can create contracts in bulk using Streamflow, it's incorporated into the ma
 
 **Step 1:** Visit the Streamflow app and select **"Vesting"** or **"Payments"**.
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<div>
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-11 142225.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-11 142239.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 **Step 2:** From here you can click **"Create New"**.
 
-<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-09 124308.png" alt=""><figcaption></figcaption></figure>
 
 **Step 3:** Fill the contract out as shown in ["Create a Vesting Contract" ](token-vesting.md)and once you reach the second step in the creation flow you'll see **"Upload CSV"**
 
-<figure><img src="../.gitbook/assets/image (44).png" alt="" width="541"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-12 163704.png" alt="" width="432"><figcaption></figcaption></figure>
 
 **Step 4:** On click you'll see a **modal** with some details around the CSV upload flow. We provide the required titles&#x20;
 
-<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-09 124343.png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Step 5:** Once you have loaded a CSV click **"Upload"**
 
-<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-09 124409.png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Step 6:** Once successfully uploaded, you will see all the **recipients are now added**. :tada:
 
-<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-09 124420.png" alt="" width="374"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-09 124517.png" alt=""><figcaption></figcaption></figure>

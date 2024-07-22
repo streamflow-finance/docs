@@ -25,8 +25,8 @@ We help investors track and manage their (vested) token portfolio easily across 
 * Token Lock :white\_check\_mark:
 * Public dashboard :white\_check\_mark:
 * Draft contracts :white\_check\_mark:
-* Revamped pricing :calendar\_spiral:
-* Airdrops :calendar\_spiral:
+* Revamped pricing :white\_check\_mark:
+* Airdrops :white\_check\_mark:
+* Token Extensions Support :white\_check\_mark:
+* Mint tokens :white\_check\_mark:
 * Staking as a service :calendar\_spiral:
-* Token Extensions Support :calendar\_spiral:
-* Mint tokens :calendar\_spiral:

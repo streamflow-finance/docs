@@ -35,13 +35,7 @@ Yes. Streamflow Protocol and app are permissionless to interact with.&#x20;
 2. **Payment contracts:** A recurring payment contract with an additional option to top-up the contract even after deployment
 3. **Token locks:** An immutable contract for locking LP tokens as well as standard tokens&#x20;
 4. **Public dashboard:** A publicly shareable dashboard to be transparent with community about token distributions&#x20;
-5. **Airdrop distribution:** vested and non-vested airdrop tool
-
-#### How does Streamflow help crypto startups and companies? <a href="#how-does-streamflow-help-crypto-startups-and-companies" id="how-does-streamflow-help-crypto-startups-and-companies"></a>
-
-We help crypto companies to become legally compliant and getting registered in crypto friendly regions.&#x20;
-
-Book a call through Calendly for a consultation: [Streamflow Calendly](https://calendly.com/streamflow-bd/discovery?month=2023-10)​
+5. **Airdrop distribution:** vested and non-vested airdrop tool​
 
 #### **Does Streamflow charge any fees for its products?** <a href="#does-streamflow-charge-any-fees-for-its-products" id="does-streamflow-charge-any-fees-for-its-products"></a>
 
