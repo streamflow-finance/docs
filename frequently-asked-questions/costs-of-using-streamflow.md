@@ -10,6 +10,14 @@ Note: Reach out to us for a custom fee offer, we recommend booking a call with u
 
 **Network fees:** In addition to the Streamflow fees, standard network fees apply to transactions for creating or interacting with contracts.
 
+* Associated token account creation 0.00407856 SOL
+* Contract metadata account creation 0.00857472 SOL
+* Escrow token account creation 0.00203928 SOL
+* Signature 0.000005 SOL
+* **Sum total** - **0.01469756 SOL**
+
+**Please note:** These are network fees and not retrievable**.**
+
 #### Streamflow transactions <a href="#streamflow-transactions" id="streamflow-transactions"></a>
 
 * **Create Contract**
@@ -18,8 +26,8 @@ Note: Reach out to us for a custom fee offer, we recommend booking a call with u
   * Rent (Solana specific)
 * **Top up Contract**
   * The same fees are charged as above for the newly topped up amount
-* **Manual Withdraw**
-  * The network fee is paid by the recipient on the withdraw transaction
+* Claim (Manual)
+  * The network fee is paid by the recipient on the claim transaction
 * **Auto-claim fees**
   * In case sender enables auto-claim feature for the contract, the transaction fee is paid by the sender for each auto-claim that happens
 * **Transfer**
