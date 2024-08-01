@@ -10,7 +10,7 @@ Note: Reach out to us for a custom fee offer, we recommend booking a call with u
 
 **Network fees:** In addition to the Streamflow fees, standard network fees apply to transactions for creating or interacting with contracts.
 
-* Associated token account creation 0.00407856 SOL
+* Associated token account creation 0.00407856 SOL (if there is a need for ATA creation)
 * Contract metadata account creation 0.00857472 SOL
 * Escrow token account creation 0.00203928 SOL
 * Signature 0.000005 SOL
