@@ -1,5 +1,5 @@
 ---
-description: Streamflow — Payment Infrastructure for Web3
+description: Streamflow — Token Distribution Standard on Solana
 cover: .gitbook/assets/isemage.png
 coverY: 0
 layout:
@@ -41,6 +41,9 @@ Streamflow aims to provide a diverse range of projects with access to payment in
 * Solana
 * Sui
 * Aptos&#x20;
+
+Withdraw-only mode:
+
 * Ethereum
 * Polygon
 * BNB Chain
