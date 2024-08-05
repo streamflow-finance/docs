@@ -14,4 +14,4 @@ Note: The exact percentage that the referer earns depends on their referral rate
 
 Want to become a referrer and earn attractive referral fees through Streamflow?
 
-**Book a call with us to discuss becoming an elite Streamflow referrer:** [Streamflow Calendly](https://calendly.com/streamflow-bd/token-vesting?month=2023-09\&date=2023-09-29)
+**Book a call with us to discuss becoming an elite Streamflow referrer:** [Streamflow BD team](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2b\_lc99DWgZXBj\_TGPGFyKAbIumo2956ImUegFytJSN6IHfwXLj\_xq-hVDVdoriC5v13FJ8W3p)
